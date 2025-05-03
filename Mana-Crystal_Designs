@@ -16,7 +16,7 @@ Big Mana Crystals:
 --------------------------------------------------
 
 Constructed Mana Crystal:
-Rarity: WHITE
+Rarity: GOLD
 
 EXHAUST: Generate 1.
 1: Until the End of the Turn, this Mana
@@ -26,7 +26,9 @@ It remains a Big Mana Crystal.
 --------------------------
 
 Collapsing Crystal:
-Rarity: WHITE
+Rarity: GOLD
+
+EXHAUST: Generate 1.
 
 1, EXHAUST: Destroy target Big Mana Crystal an Opponent controls.
 Destroy this Mana Crystal.
@@ -34,7 +36,7 @@ Destroy this Mana Crystal.
 --------------------------
 
 Shifting Crystal:
-Rarity: WHITE
+Rarity: GOLD
 
 EXHAUST: Search your Crystal-Collecting for a Small Mana Crystal, put it on the Battle
 exhausted, then shuffle your Crystal Collection.

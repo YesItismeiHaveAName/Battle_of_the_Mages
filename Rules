@@ -1,0 +1,35 @@
+Battle Mages:
+
+
+Deck Building:
+Each player has to build a Spellbook, consisting of exactly 40 White, Blue, Green or Red Cards.
+Each Player also has to build a 20 Card Crystal-Collection, consisting of Mana Crystals.
+
+
+A Crystal Collection can contain any amount of Small Mana Crystals, while any Crystal Collection can only contain a set
+amount of Big Mana Crystals. The maximum amount of copies eligible for each Collection is referenced by that
+Cards Rarity.
+
+
+
+Turn-Cycle:
+
+At the beginning of the Game, players choose a Player to go first.
+Then, both Players look at the Top 4 Cards of their Crystal Collection and may put any amount of them on the Bottom of
+their Crystal Collection. Then, they put the rest back om the Top of their Crystal Collection in any Order.
+
+After that, the Turn Cycle starts and repeats until a Player has won the match as follows:
+
+Turn Player A
+Turn Player B
+
+A turn consists of the following steps:
+
+
+Preparation-Step
+Crystal-Step
+Draw-Step
+Main-Step
+Combat-Step
+Main-Step
+End-Step

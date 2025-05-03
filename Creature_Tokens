@@ -13,3 +13,17 @@ Creature - Knight
 Str: 1
 Vit: 2
 ----------------------------
+Goblin
+Creature - Goblin
+
+Str: 1
+Vit: 1
+----------------------------
+Dragon
+Creature - Dragon
+
+Flying
+
+Str: 5
+Vit: 5
+----------------------------

@@ -17,7 +17,24 @@ Flying, Rush
 Str: 4
 Vit: 7
 
-"Her motherly love never dies out."
+"Her motherly Love never dies out."
+
+
+GOLD Rarity:
+------------------
+
+Dragon Brute
+Cost: 2RR
+Rarity: WHITE
+
+Creature (Fast) - Dragon
+
+Flying
+
+R: This Creature gains +1 Str until the End of Turn.
+
+Str: 2
+Vit: 3
 
 
 
@@ -27,7 +44,7 @@ WHITE RARITY:
 ------------------
 
 Raging Minotaur
-Cost: 1RR
+Cost: 2R
 Rarity: WHITE
 
 Creature (Slow) - Minotaur
@@ -52,40 +69,63 @@ Vit: 1
 
 ------------------
 
+Dragon Shaman
+Cost: R
+Rarity: WHITE
+
+Creature (Slow) - Shaman
+
+4R: Summon 1 Dragon.
+
+Str: 1
+Vit: 1
+
+------------------
+
 Thorned Lizard
 Cost: 1RR
 Rarity: WHITE
 
 Creature (Slow) - Lizard
 
-When this Creature enters the Battle, it deals 3
-Damage to 1 target Creature.
+When this Creature enters, it deals 3
+Damage to target Creature.
 
 Str: 3
 Vit: 2
 
 ------------------
 
-Dragon Brute
-Cost: 2RR
+Berserker
+Cost: 1R
 Rarity: WHITE
 
-Creature (Fast) - Dragon
+Creature (Slow) - Berserker
 
-Flying
+Str: 2
+Vit: 2
 
-R: This Creature gains +1 Str until the End of Turn.
+------------------
+
+Goblin Gang Leader
+Cost: 3RR
+Rarity: WHITE
+
+Creature (Slow) - Goblin
+
+When this Creature enters, summon 3 Goblins.
 
 Str: 2
 Vit: 2
 
 
 
-
-
 ------------------------------------------------------------------------------------------------------------
 Rituals:
 ------------------------------------------------------------------------------------------------------------
+
+PURPLE Rarity:
+------------------
 
 
 GOLD RARITY
@@ -153,8 +193,8 @@ Cost: 1R
 Rarity: WHITE
 Ritual (Fast)
 
-Put X Str Counter on target Creature,
-where X is the Number of Damage Counter on it.
+Put X Str Counters on target Creature,
+where X is the Number of Damage Counters on it.
 
 ------------------
 

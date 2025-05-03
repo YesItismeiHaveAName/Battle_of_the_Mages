@@ -59,8 +59,8 @@ Rarity and Quantity of Cards per deck:
 
 For both Big Mana Crystals and all Spells / Creatures, the maximum amount of copies per card are given by there rarity:
 
-White Rarity Symbol: You can play up to 3 Copies of this card.
-Gold Rarity Symbol: You can play up to 2 Copies of this card.
+White Rarity Symbol: You can play up to 4 Copies of this card.
+Gold Rarity Symbol: You can play up to 3 Copies of this card.
 Purple Rarity Symbol: You can play up to 1 copy of this card.
 
 This "mechanic" is supposed to make decks more fair. Purple Rarity cards should be way more powerful on their own, but restricting them to up to 1 copy per decks should keep them in check,
