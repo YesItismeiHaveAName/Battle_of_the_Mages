@@ -1,0 +1,40 @@
+Spellbook:
+Your Deck.
+
+Graveyard:
+Your Discard pile.
+
+Crystal Collection:
+Crystal Deck.
+
+Ritual, Creature, Mana Crystal:
+Card-Types.
+
+
+
+Deny:
+If a Spell becomes denied, put it into its Owner's Graveyard from the Stack.
+
+
+Rebuy - X
+You can activate a Card's Rebuy-Ability when it is in your graveyard by paying X.
+If you do, return that Card from your Graveyard to your Hand.
+
+
+Bounce:
+A Creatures gets bounced when it gets put into its Owner's Hand from the Battlefield.
+If that Creature is a Mana Crystal, put it underneath that players Crystal-Collection instead.
+
+
+Foresight X:
+Looks at the Top X Cards of your Spellbook. You can put any Number of them on the Bottom of your Spellbook.
+Put the Rest on the Top of your Spellbook in ANY Order. (You choose the Order)
+
+
+Vanish:
+When a Card vanishes, it gets removed from the Game completely.
+
+
+
+Cylcing - X:
+You can pay X and discard a Card with Cycling X from your hand to draw 1 Card.

@@ -1,0 +1,84 @@
+Mana-System:
+
+You not only have a spell deck, containing 40 spell cards, but also a Mana Crystal Deck, containing 15 Mana Crystals.
+
+-> The crystals produce Mana, colored one.
+In Battle Mages, there are 4 colors:
+
+
+Blue
+-> Spells,  Carddraw, creatures with bounce effects etc -> Counterspell etc.
+Iconic Creatures: Wizards, Ghosts, maybe Sphinx?
+
+
+Red
+-> many small creatures, dragons, spells that deal damage to players / creatures, conditional buffs
+Iconic Creatures: Goblins, Stone Golems, Lizards / Dragons
+
+
+Green
+-> big creatures, stuff that buffs creatures, life gain and graveyard resurrection
+Iconic Creatures: Worms, Beasts, Mammoths
+
+
+White
+-> Destroying creatures, removing graveyards, healing creatures and buffing them
+Iconic Creatures: Angels, Humans / Knights
+
+
+Mana-Crystals:
+-> there will be 2-Colored and 1-Colored Mana-Crystals -> each Crystal-Deck contains up to 4 of each 2-Color-Mana-Crystal and up to infinitely many 1-Colored-Mana-Crystals
+
+There will be small Crystals, being the 1-colored ones, and big crystals, being utility ones.
+
+-> Wasteland-Complement.
+-> Mishra's Workshop Equivalent.
+
+
+
+-> Constructed Mana Crystal:
+
+USE: Generate 1.
+1: This Mana turns into a Construct creature (Str: 2 Vit: 1) with rush until the end of the turn.
+It still is a Mana Crystal.
+
+
+-> Many cards with Rebuy costs, so that grindy decks can coexist with rushdown aggro and combo.
+
+
+
+Targeting vs Choosing:
+
+
+Whenever a card states Target, you have to choose the target upon attempting a card. The target has to be legal in all regards.
+
+
+
+Rarity and Quantity of Cards per deck:
+
+
+For both Big Mana Crystals and all Spells / Creatures, the maximum amount of copies per card are given by there rarity:
+
+White Rarity Symbol: You can play up to 3 Copies of this card.
+Gold Rarity Symbol: You can play up to 2 Copies of this card.
+Purple Rarity Symbol: You can play up to 1 copy of this card.
+
+This "mechanic" is supposed to make decks more fair. Purple Rarity cards should be way more powerful on their own, but restricting them to up to 1 copy per decks should keep them in check,
+making for a diverse meta since you cannot rely on one card only, which should then also make for a diverse gameplay situation.
+
+
+
+
+Counters:
+
+I think it would be pretty cool to have many ways of modifying creatures:
+
+Flying-, Shield- , Strength-, Poison- , Ice- Counter, just to name a view.
+
+Yes, Tracking will be kinda rough. But we can use differetnly colored dice, I suppose.
+
+Strength: Yellow
+Damage: Red
+Shield: White
+Poison: Purple
+Ice: Blue

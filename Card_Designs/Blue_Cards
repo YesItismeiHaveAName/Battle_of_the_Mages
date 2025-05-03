@@ -1,0 +1,162 @@
+------------------------------------------------------------------------------------------------------------
+Creatures:
+------------------------------------------------------------------------------------------------------------
+PURPLE RARITY
+------------------
+Varnyx, the Glacierborn
+Cost: 3BB
+Rarity: PURPLE
+
+Creature(Fast) - Titan
+
+When this Creature enters, put 1 Ice Counter on all other Creatures.
+Exhaust all other Creatures.
+
+2B: Put 1 Ice Counter on target Creature.
+
+Str: 2
+Vit: 5
+
+
+
+
+
+GOLD RARITY
+------------------
+
+Frozen Golem
+Cost: BB
+Rarity: GOLD
+
+Creature(Slow) - Golem
+
+When this Creature enters, put 6 Ice Counters
+and 1 Shield Counter on it.
+
+1BB: Remove 1 Ice Counter from this Creature.
+
+Str: 7
+Vit: 9
+
+
+
+
+
+WHITE RARITY:
+------------------
+
+Frost Mammoth
+Cost: 2B
+Rarity: WHITE
+
+Creature(SLow) - Mammoth
+
+1BB: Put 1 Ice Counter on target Creature.
+Exhaust it.
+
+Str: 1
+Vit: 5
+
+
+------------------
+
+Fairie Trickster
+Cost: 1B
+Rarity: WHITE
+
+Creature(Fast) - Fairie
+
+Flying
+
+3B: Draw 1 Card.
+
+Str: 1
+Vit: 1
+
+------------------
+
+Wise Mage
+Cost: 2BB
+Rarity: WHITE
+
+Creature (Slow) - Wizard
+
+When this Creature enters, return target Ritual from your Graveyard to your Hand.
+
+Str: 2
+Vit: 2
+
+
+
+
+------------------------------------------------------------------------------------------------------------
+Rituals:
+------------------------------------------------------------------------------------------------------------
+
+
+GOLD RARITY
+------------------
+
+Obsessed with Knowledge
+Cost: 3B
+Rarity: GOLD
+
+Ritual(Fast)
+
+Draw 2 Cards. Discard 1 Card.
+
+Rebuy - BBB
+
+
+------------------
+
+Charm of Clarity
+Cost: BBB
+Rarity: GOLD
+
+Ritual(Fast)
+
+Choose one:
+- Deny target Spell.
+- Bounce target Creature.
+- Draw a Card.
+- Foresight 2.
+
+
+
+WHITE RARITY
+------------------
+
+Denying Strike
+Cost: BB
+Rarity: WHITE
+
+Ritual(Fast)
+
+Deny target Spell.
+
+------------------
+
+Enlightening Study
+Cost: BB
+Rarity: WHITE
+
+Ritual(Slow)
+
+Foresight 5.
+
+------------------
+
+Vision
+Cost: B
+Rarity: WHITE
+
+Ritual(Fast)
+
+Foresight 1.
+Draw 1 Card.
+
+
+
+
+

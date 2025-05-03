@@ -1,0 +1,148 @@
+------------------------------------------------------------------------------------------------------------
+Creatures:
+------------------------------------------------------------------------------------------------------------
+PURPLE RARITY
+------------------
+Aurelia, Voice of Pride
+Cost: 4WW
+Rarity: PURPLE
+
+Creature(Slow) - Angel
+
+Flying, Steadiness
+
+When this Creature enters, put 3 Shield Counter on it.
+You gain 5 Life.
+
+2W: EXHAUST: Heal target Creature for 2.
+
+Str: 5
+Vit: 6
+
+
+
+
+
+
+GOLD RARITY
+------------------
+
+Knight's Commander
+Cost: 2WW
+Rarity: GOLD
+
+Creature(Slow) - Knight
+
+1W: Put 1 Str or Shield Counter on target Creature.
+
+4W(Slow): Summon 2 Knights. Each Creature you control gains Rush until the End of Turn.
+
+Str: 2
+Vit: 4
+
+
+
+WHITE RARITY:
+------------------
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------
+Rituals:
+------------------------------------------------------------------------------------------------------------
+PURPLE RARITY
+------------------
+
+Calling the Angels
+Cost: 4WWW
+Rarity: PURPLE
+
+Ritual(Slow)
+
+Summon 3 Angels (Str: 4, Vit: 4)
+You gain 6 Life.
+
+
+
+
+GOLD RARITY
+------------------
+
+Cleansing Light
+Cost: 1W
+Rarity: GOLD
+
+Ritual(Slow)
+
+Remove all Counters from target Creature.
+
+------------------
+
+Total Cleansing
+Cost: 2WW
+Rarity: GOLD
+
+Ritual(Slow)
+
+Destroy all Creatures.
+
+
+
+
+WHITE RARITY
+------------------
+
+Cleaning the Past
+Cost: 1W
+Rarity: WHITE
+
+Ritual(Fast)
+
+Vanish all Cards from all Graveyards.
+
+Cycling - 1W
+
+------------------
+
+Calling Back up
+Cost: 2WW
+Rarity: WHITE
+
+Ritual(Slow)
+
+Summon 2 Knights (Str: 1, Vit: 2).
+
+Rebuy - 3W
+
+------------------
+
+Forgiveness
+Cost: 1W
+Rarity: WHITE
+
+Ritual(Fast)
+
+Vanish target attacking Creature.
+Its Owner gains Life equal to its Str.
+
+------------------
+
+Divide and Destroy
+Cost: 2WW
+Rarity: WHITE
+
+Ritual(Slow)
+
+Choose one:
+- Destroy all Creatures with Str 3 or less.
+- Destroy all Creatures with Str 4 or more.
+
+
+
+
+
+
+

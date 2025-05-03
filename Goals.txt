@@ -1,0 +1,23 @@
+The goal of Battle_of_the_Mages:
+
+
+- providing a small-scale, old-school MTG like Card game
+- focus on cool cards, little deck sizes and competitive gameplay that rewards smart decision making
+and risk-reward-evaluation
+
+
+-> Decksize: 30.
+-> Starting life: 10
+-> how many copies of any given Card? -> Depends on the card.
+-> Cards with a White head can be played up to thrice per deck, cards with an orange head up to twice and cards
+with a red head up to once.
+
+
+Each is a Spell:
+Spells can be Slow OR Quick, this Attribute Dictates when you can cast any given Spell.
+
+
+Flavor
+As cunning and powerful wizards, you’ll draw from your Spellbook—a pre-prepared deck of magical might.
+Summon spirit incarnations, hurl lightning and fire, and use ancient foresight to manipulate fate.
+Only one mage can emerge victorious.
