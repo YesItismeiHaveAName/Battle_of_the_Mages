@@ -1,7 +1,7 @@
 ------------------------------------------------------------------------------------------------------------
 Creatures:
 ------------------------------------------------------------------------------------------------------------
-PURPLE RARITY
+PURPLE RARITY (1 / 1)
 ------------------
 Aurelia, Voice of Pride
 Cost: 4WW
@@ -9,7 +9,7 @@ Rarity: PURPLE
 
 Creature(Slow) - Angel
 
-Flying, Steadiness
+Flying, Attentiveness
 
 When this Creature enters, put 3 Shield Counter on it.
 You gain 5 Life.
@@ -20,11 +20,11 @@ Str: 5
 Vit: 6
 
 
-"A Source of Peace, Strength, Pain and Suffering."
+"A Source of Peace, Pain, Strength and Suffering."
 
 
 
-GOLD RARITY
+GOLD RARITY (1 / 3)
 ------------------
 
 Knight's Commander
@@ -42,7 +42,7 @@ Vit: 4
 
 
 
-WHITE RARITY:
+WHITE RARITY: (0 / 6)
 ------------------
 
 
@@ -53,22 +53,35 @@ WHITE RARITY:
 ------------------------------------------------------------------------------------------------------------
 Rituals:
 ------------------------------------------------------------------------------------------------------------
-PURPLE RARITY
+PURPLE RARITY (1 / 1)
 ------------------
 
 Calling the Angels
-Cost: 4WWW
+Cost: 5WWWW
 Rarity: PURPLE
 
 Ritual(Slow)
 
-Summon 3 Angels (Str: 4, Vit: 4)
-You gain 6 Life.
+Summon 3 Angels.
+You gain 8 Life.
+
+"Despite the Sounds of Wedding Bells, I felt more anxious than ever."
 
 
+GOLD RARITY (3 / 3)
+------------------
 
+Charm of Commitment
+Cost: 2W
+Rarity: GOLD
 
-GOLD RARITY
+Ritual(Slow)
+
+Choose one:
+- Summon 2 Spirits.
+- Destroy target Creature.
+- Put 3 Shield Counters on target Creature.
+
 ------------------
 
 Cleansing Light
@@ -92,7 +105,7 @@ Destroy all Creatures.
 
 
 
-WHITE RARITY
+WHITE RARITY (4 / 6)
 ------------------
 
 Cleaning the Past
@@ -113,9 +126,8 @@ Rarity: WHITE
 
 Ritual(Slow)
 
-Summon 2 Knights (Str: 1, Vit: 2).
+Summon 2 Knights.
 
-Rebuy - 3W
 
 ------------------
 
@@ -131,7 +143,7 @@ Its Owner gains Life equal to its Str.
 ------------------
 
 Divide and Destroy
-Cost: 2WW
+Cost: 3WW
 Rarity: WHITE
 
 Ritual(Slow)

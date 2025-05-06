@@ -19,6 +19,7 @@ Constructed Mana Crystal:
 Rarity: GOLD
 
 EXHAUST: Generate 1.
+
 1: Until the End of the Turn, this Mana
 Crystal becomes a Construct Creature (Str: 2, Vit: 1) with Rush.
 It remains a Big Mana Crystal.
@@ -75,7 +76,7 @@ WWW, EXHAUST(Slow):
 Choose one:
 - Heal target Creature for 2.
 - Put a Shield-Counter on target Creature.
-- Summon a Knight (Str: 1, Vit: 2).
+- Summon a Knight.
 
 --------------------------
 

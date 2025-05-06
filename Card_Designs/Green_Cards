@@ -1,44 +1,108 @@
 ------------------------------------------------------------------------------------------------------------
 Creatures:
 ------------------------------------------------------------------------------------------------------------
-PURPLE RARITY
+PURPLE RARITY (0 / 1)
 ------------------
 
+Sporessa, Sporemother
 
 
-GOLD RARITY
+
+GOLD RARITY (1 / 3)
 ------------------
 
+Spreading Moss
+Cost: 2GG
+Rarity: GOLD
+
+Creature(Slow) - Elemental
+
+1, OFFER a Creature: Put 1 Poison Counter on target Creature.
+
+2GG: Summon 2 Fungus.
+
+Str: 2
+Vit: 3
 
 
-WHITE RARITY:
+WHITE RARITY (2 / 6)
 ------------------
 
+Mana-Weaver
+Cost: G
+Rarity: WHITE
 
+Creature(Slow) - Elf
 
+EXHAUST: Generate G.
 
+Str: 1
+Vit: 1
 
+------------------
+
+Growing Bug
+Cost: 1G
+Rarity: WHITE
+
+Creature(Slow) - Bug
+
+1G: Exile target Card from a Graveyard. Heal this Creature for 1.
+If the Card was a Creature Card, put 1 Str and 1 Shield Counter on this Creature.
+
+Str: 0
+Vit: 2
 
 
 ------------------------------------------------------------------------------------------------------------
 Rituals:
 ------------------------------------------------------------------------------------------------------------
-PURPLE RARITY
+PURPLE RARITY (0 / 1)
 ------------------
 
 
 
 
-GOLD RARITY
+GOLD RARITY (1 / 3)
+------------------
+
+Charm of Growth
+Cost: 2GGG
+Rarity: GOLD
+
+Ritual(Slow)
+
+Choose one:
+- Put 3 Poison Counters on target Creature.
+- Summon 3 Fungus.
+- Gain 6 Life. Draw 1 Card.
+
 ------------------
 
 
-
-
-WHITE RARITY
+WHITE RARITY (2 / 6)
 ------------------
 
+Stomping ahead
+Cost: 2G
+Rarity: WHITE
 
+Ritual (Slow)
+
+Summon 1 Beast.
+
+Echo - 3G
+
+------------------
+
+Regrowth
+Cost: 2G
+Rarity: WHITE
+
+Ritual (Slow)
+
+Return target Creature Card from your Graveyard to your Hand.
+You gain 4 Life.
 
 
 

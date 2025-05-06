@@ -1,0 +1,49 @@
+This Document will Cover ALL Types of Counters and review their workings!
+
+
+
+
+
+Damage Counter:
+
+Whenever a Creature gets dealt Damage, you put that many Damage Counter on it.
+If the Number of Damage Counter exceeds or is equal to that Creature's Vit, it gets Destroyed and put
+into it's Mage's Graveyard.
+
+
+
+Str(-ength) Counter:
+
+Increases the Str-Attribute of the Creature it is put on by 1.
+When referring to the Str of a Creature, these Counters will be added.
+So if a card refers to the power of a Creature with 1 Str and 4 Str Counters on it, the result is 5.
+
+
+
+Ice Counter:
+
+A Creature that has Ice Counter on it will NOT prepare during its Mage's Prepare-Step nor through any other Means.
+Instead, its Mage removes 1 Ice Counter from it.
+
+
+Shield Counter:
+
+If a Creature with Shield Counters gets dealt Damage, you remove a Shield Counter from it and Decrease that Damage by 1
+until it either has no Shield Counters on it or the Damage reaches 0.
+If, for Example, a Creature with 4 Shield Counter would be dealt 3 Damage, you remove 3 Shield Counters from it.
+If it were dealt 5 Damage instead, you remove 4 Shield Counters from it and deal 1 Damage to it.
+Apply Shield Counters before anything else that changes Damage-Calculations.
+
+
+Poison Counter:
+
+For Each Poison Counter on a Creature, its Strength (Str) and Vitality (Vit) will be increased by 1.
+This Effect also Stacks with Damage Counters and also affects Str Counters. To calculate the ACTUAL Str if a Creature
+that has Poison Counters on it, use this Formula:
+
+Actual Str = Str + Num. of Str Counters - Num. of Poison Counters
+
+To calculate it's Actual Vitality, use this Formula:
+
+Actual Vit = Vit - Num. of Damage Counters - Num. of Poison Counters
+

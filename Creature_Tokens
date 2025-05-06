@@ -1,29 +1,35 @@
 ----------------------------
-Angel
+Angel (WHITE)
 Creature - Angel
 
 Flying
 
 Str: 4
-Vit: 4
+Vit: 5
 ----------------------------
-Knight
+Knight (WHITE)
 Creature - Knight
 
-Str: 1
+Str: 2
 Vit: 2
 ----------------------------
-Goblin
+Goblin (RED)
 Creature - Goblin
 
 Str: 1
 Vit: 1
 ----------------------------
-Dragon
+Dragon (RED)
 Creature - Dragon
 
 Flying
 
 Str: 5
 Vit: 5
+----------------------------
+Fungus (GREEN)
+Creature - Fungus
+
+Str: 1
+Vit: 1
 ----------------------------

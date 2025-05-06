@@ -1,7 +1,7 @@
 ------------------------------------------------------------------------------------------------------------
 Creatures:
 ------------------------------------------------------------------------------------------------------------
-PURPLE RARITY
+PURPLE RARITY (1 / 1)
 ------------------
 
 Emberyne, dwelling Flame
@@ -14,18 +14,19 @@ Flying, Rush
 
 1R: This Creature deals 1 Damage to target Creature.
 
-Str: 4
+Str: 5
 Vit: 7
 
 "Her motherly Love never dies out."
 
 
-GOLD Rarity:
+
+GOLD Rarity (3 / 3)
 ------------------
 
 Dragon Brute
 Cost: 2RR
-Rarity: WHITE
+Rarity: GOLD
 
 Creature (Fast) - Dragon
 
@@ -33,17 +34,44 @@ Flying
 
 R: This Creature gains +1 Str until the End of Turn.
 
-Str: 2
+Str: 3
 Vit: 3
 
-
-
-
-
-WHITE RARITY:
 ------------------
 
-Raging Minotaur
+Chain whirling Minotaur
+Cost: 1RRR
+Rarity: GOLD
+
+Creature (Slow) - Minotaur
+
+2R, Discard 1 Card: This Creature Deals 1 Damage to any Target.
+
+Str: 4
+Vit: 4
+
+------------------
+
+Great Dune Worm
+Cost: 3RRR
+Rarity: GOLD
+
+Creature (Slow) - Worm
+
+When this Creature enters, it deals 4 Damage to all other creatures.
+
+Str: 3
+Vit: 4
+
+
+
+
+
+
+WHITE RARITY: (6 / 6)
+------------------
+
+Boasting Minotaur
 Cost: 2R
 Rarity: WHITE
 
@@ -62,27 +90,27 @@ Rarity: WHITE
 
 Creature (Slow) - Goblin
 
-EXHAUST, DESTROY: This Creature deals 1 Damage to any Target.
+EXHAUST, OFFER this Creature: This Creature deals 1 Damage to any Target.
 
 Str: 1
 Vit: 1
 
 ------------------
 
-Dragon Shaman
-Cost: R
+Dragon Shamaness
+Cost: 1R
 Rarity: WHITE
 
 Creature (Slow) - Shaman
 
 4R: Summon 1 Dragon.
 
-Str: 1
-Vit: 1
+Str: 2
+Vit: 2
 
 ------------------
 
-Thorned Lizard
+Fire-Spit Lizard
 Cost: 1RR
 Rarity: WHITE
 
@@ -96,18 +124,20 @@ Vit: 2
 
 ------------------
 
-Berserker
-Cost: 1R
+Hasty Lizard
+Cost: R
 Rarity: WHITE
 
-Creature (Slow) - Berserker
+Creature (Slow) - Lizard
 
-Str: 2
-Vit: 2
+Rush
+
+Str: 1
+Vit: 1
 
 ------------------
 
-Goblin Gang Leader
+Goblin Commander
 Cost: 3RR
 Rarity: WHITE
 
@@ -124,14 +154,28 @@ Vit: 2
 Rituals:
 ------------------------------------------------------------------------------------------------------------
 
-PURPLE Rarity:
+PURPLE Rarity (1 / 1)
 ------------------
 
+Distorted Punishment
+Cost: 1RR
+Rarity: Purple
 
-GOLD RARITY
+Ritual(Slow)
+
+Remove all Damage Counters from all Creatures.
+Repeat the Following for each Counter removed this way:
+Deal 1 Damage to a Creature.
+
+"By some Miracle, they carried our pain."
+
+
+
+
+GOLD RARITY (3 / 3)
 ------------------
 
-Inner Fire
+Charm of Fire
 Cost: RR
 Rarity: GOLD
 
@@ -140,7 +184,7 @@ Ritual(Slow)
 Choose one:
 - Remove all Ice Counters from target Creature. Prepare it.
 - Discard one card. Draw 2 Cards.
-
+- Deal 1 Damage to all Creatures of target Mage.
 
 ------------------
 
@@ -154,10 +198,22 @@ This Card deals 2 Damage to any Target.
 
 Rebuy - 2R
 
+------------------
+
+Impulsive Thinking
+Cost: R
+Rarity: GOLD
+
+Ritual(Slow)
+
+Each Mage Draws 3 Cards.
+Each Mage discards 3 Cards at Random.
 
 
 
-WHITE RARITY
+
+
+WHITE RARITY (6 / 6)
 ------------------
 
 Magma Splash
@@ -205,6 +261,18 @@ Ritual (Slow)
 
 This Card deals 2 Damage to each Creature.
 Remove 2 Ice Counter from each Creature.
+
+------------------
+
+Split Lightning
+Cost: 1R
+Rarity: White
+
+Ritual(Slow)
+
+This Card deals 1 Damage to any Target
+and 1 Damage to any other Target.
+
 
 
 

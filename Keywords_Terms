@@ -38,3 +38,13 @@ When a Card vanishes, it gets removed from the Game completely.
 
 Cylcing - X:
 You can pay X and discard a Card with Cycling X from your hand to draw 1 Card.
+
+
+Armor X:
+Whenever a Creature with Armor X gets dealt Damage, decrease the Damage by X. The remaining Damage can be 0 or less,
+causing the creature to NOT take Damage.
+
+
+Heal for X:
+Remove X Damage Counters from the Target. X can be more than the Number of Damage Counters on that Target. If it is,
+You just remove all Damage Counters from the Target.
