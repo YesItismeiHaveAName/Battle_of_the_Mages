@@ -31,15 +31,15 @@ Rarity: GOLD
 
 EXHAUST: Generate 1.
 
-1, EXHAUST: Destroy target Big Mana Crystal an Opponent controls.
-Destroy this Mana Crystal.
+1, EXHAUST: Destroy target Big Mana Crystal. Offer this Mana Crystal.
 
 --------------------------
 
 Shifting Crystal:
 Rarity: GOLD
 
-EXHAUST: Search your Crystal-Collecting for a Small Mana Crystal, put it on the Battle
+Enters exhausted.
+EXHAUST: Search your Crystal-Collection for a Small Mana Crystal, put it onto the Field
 exhausted, then shuffle your Crystal Collection.
 
 --------------------------
@@ -47,14 +47,16 @@ exhausted, then shuffle your Crystal Collection.
 Burning Crystal:
 Rarity: GOLD
 
+Enters exhausted.
 EXHAUST: Generate R.
-RRR, EXHAUST(Slow): Deal 2 Damage to any Target.
+RRR, EXHAUST(Slow): Deal 3 Damage to any Target.
 
 --------------------------
 
 Enlightening Crystal:
 Rarity: GOLD
 
+Enters exhausted.
 EXHAUST: Generate B.
 BBB, EXHAUST(Slow): Foresight 1, then draw 1 Card.
 
@@ -63,6 +65,7 @@ BBB, EXHAUST(Slow): Foresight 1, then draw 1 Card.
 Restoring Crystal:
 Rarity: GOLD
 
+Enters exhausted.
 EXHAUST: Generate G.
 GGG, EXHAUST(Slow): Put target Creature Card from your Graveyard on the Top of your Spellbook.
 
@@ -71,19 +74,20 @@ GGG, EXHAUST(Slow): Put target Creature Card from your Graveyard on the Top of y
 Soothing Crystal:
 Rarity: GOLD
 
+Enters exhausted.
 EXHAUST: Generate W.
 WWW, EXHAUST(Slow):
 Choose one:
 - Heal target Creature for 2.
-- Put a Shield-Counter on target Creature.
-- Summon a Knight.
+- Put 1 Shield Counter on target Creature.
+- Gain 2 Life.
 
 --------------------------
 
 Magenta Crystal:
 Rarity: WHITE
 
-Enters the Battle exhausted.
+Enters exhausted.
 EXHAUST: Generate B or R.
 
 --------------------------
@@ -91,7 +95,7 @@ EXHAUST: Generate B or R.
 Turquoise Crystal:
 Rarity: WHITE
 
-Enters the Battle exhausted.
+Enters exhausted.
 EXHAUST: Generate B or G.
 
 --------------------------
@@ -99,7 +103,7 @@ EXHAUST: Generate B or G.
 Turquoise Crystal:
 Rarity: WHITE
 
-Enters the Battle exhausted.
+Enters exhausted.
 EXHAUST: Generate B or G.
 
 --------------------------
@@ -107,7 +111,7 @@ EXHAUST: Generate B or G.
 Yellow Crystal:
 Rarity: WHITE
 
-Enters the Battle exhausted.
+Enters exhausted.
 EXHAUST: Generate G or R.
 
 --------------------------
@@ -115,7 +119,7 @@ EXHAUST: Generate G or R.
 Pink Crystal:
 Rarity: WHITE
 
-Enters the Battle exhausted.
+Enters exhausted.
 EXHAUST: Generate W or R.
 
 --------------------------
@@ -123,7 +127,7 @@ EXHAUST: Generate W or R.
 Jade Crystal:
 Rarity: WHITE
 
-Enters the Battle exhausted.
+Enters exhausted.
 EXHAUST: Generate G or W.
 
 --------------------------
@@ -131,7 +135,7 @@ EXHAUST: Generate G or W.
 Cyan Crystal:
 Rarity: WHITE
 
-Enters the Battle exhausted.
+Enters exhausted.
 EXHAUST: Generate B or W.
 
 

@@ -48,3 +48,8 @@ causing the creature to NOT take Damage.
 Heal for X:
 Remove X Damage Counters from the Target. X can be more than the Number of Damage Counters on that Target. If it is,
 You just remove all Damage Counters from the Target.
+
+
+Boast - X:
+Boast triggers whenever the creature with that ability attacks. The moment you declare that creature to attack, after
+having declared all Attackers, you may choose to pay X. If you do, you may resolve the ability.

@@ -1,0 +1,122 @@
+------------------------------------------------------------------------------------------------------------
+Creatures:
+------------------------------------------------------------------------------------------------------------
+PURPLE RARITY (0 / 1)
+------------------
+
+
+
+
+GOLD RARITY (2 / 5)
+------------------
+
+Overtuned Construct
+Cost: 5
+Rarity: GOLD
+
+Creature(Slow) - Construct
+
+Attentiveness
+
+2: This Creature gains Flying until the End of the Turn.
+
+3: This Creature deals 1 Damage to target Creature.
+
+3: Heal target Creature for 1.
+
+Str: 4
+Vit: 4
+
+------------------
+
+Marching Sentinel
+Cost: 4
+Rarity: GOLD
+
+Creature(Slow) - Golem
+
+This Creature attacks each Combat, if able.
+
+When this Creature dies, your Opponent draws 1 Card.
+
+Str: 6
+Vit: 5
+
+
+------------------
+
+Colossal Tyrant
+Cost: 8
+Rarity: GOLD
+
+Creature(Slow) - Beast
+
+Boast - Your Opponent offers a Creature.
+
+Str: 7
+Vit: 7
+
+
+
+
+
+
+WHITE RARITY (2 / 10)
+------------------
+
+Adapting Construct
+Cost: 2
+Rarity: WHITE
+
+Creature(Slow) - Construct
+
+1: This Creature gains Rush until the End of the Turn.
+
+2: This Creature gains Flying until the End of the Turn.
+
+
+Str: 2
+Vit: 2
+
+------------------
+
+Inventive Construct
+Cost: 2
+Rarity: WHITE
+
+Creature(Slow) - Construct
+
+EXHAUST, vanish target Card from a Graveyard: Generate R or G or W or B.
+
+EXHAUST, 1, vanish target Creature Card from a Graveyard: Gain 2 Life.
+
+EXHAUST, 2, vanish target Ritual Card from a Graveyard: Put 1 Str Counter on target Creature.
+
+Str: 1
+Vit: 2
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------
+Rituals:
+------------------------------------------------------------------------------------------------------------
+PURPLE RARITY (0 / 1)
+------------------
+
+
+
+
+GOLD RARITY (1 / 5)
+------------------
+
+
+
+
+WHITE RARITY (0 / 10)
+------------------
+
+
+
+

@@ -12,9 +12,9 @@ Creature(Slow) - Angel
 Flying, Attentiveness
 
 When this Creature enters, put 3 Shield Counter on it.
-You gain 5 Life.
+Gain 5 Life.
 
-2W, EXHAUST: Heal target Creature for 2.
+1W, EXHAUST: Heal target Creature for 2.
 
 Str: 5
 Vit: 6
@@ -24,7 +24,7 @@ Vit: 6
 
 
 
-GOLD RARITY (1 / 3)
+GOLD RARITY (3 / 5)
 ------------------
 
 Knight's Commander
@@ -33,19 +33,84 @@ Rarity: GOLD
 
 Creature(Slow) - Knight
 
-1W: Put 1 Str or Shield Counter on target Creature.
+1W: Put 1 Str Counter or 1 Shield Counter on target Creature.
 
 4W(Slow): Summon 2 Knights. Each Creature you control gains Rush until the End of Turn.
 
 Str: 2
 Vit: 4
 
-
-
-WHITE RARITY: (0 / 6)
 ------------------
 
+Guardian of the Folk
+Cost: 3WW
+Rarity: GOLD
 
+Creature(Slow) - Angel
+
+Flying, Attentiveness
+Armor 1
+
+Str: 4
+Vit: 4
+
+------------------
+
+Cleric
+Cost: 1W
+Rarity: WHITE
+
+Creature(Slow) - Cleric
+
+1WWWW: Summon 1 Angel.
+
+Str: 0
+Vit: 3
+
+
+
+WHITE RARITY: (3 / 10)
+------------------
+
+Companion Hawk
+Cost: 1W
+Rarity: WHITE
+
+Creature(Slow) - Bird
+
+Flying
+
+When this Creature dies, you can search your Spellbook for a Card with the same Name,
+reveal it and put it into your Hand.
+
+Str: 1
+Vit: 1
+
+------------------
+
+Town Guardian
+Cost: W
+Rarity: WHITE
+
+Creature(Slow) - Human
+
+EXHAUST: Exhaust target Creature.
+
+Str: 0
+Vit: 1
+
+------------------
+
+Mystic Wall
+Cost: 1W
+Rarity: WHITE
+
+Creature(Slow) - Spirit
+
+When this Creature enters, draw 1 Card.
+
+Str: 0
+Vit: 4
 
 
 
@@ -63,12 +128,13 @@ Rarity: PURPLE
 Ritual(Slow)
 
 Summon 3 Angels.
-You gain 8 Life.
+Gain 8 Life.
 
 "Despite the Sounds of Wedding Bells, I felt more anxious than ever."
 
 
-GOLD RARITY (3 / 3)
+
+GOLD RARITY (3 / 5)
 ------------------
 
 Charm of Commitment
@@ -78,7 +144,7 @@ Rarity: GOLD
 Ritual(Slow)
 
 Choose one:
-- Summon 2 Spirits.
+- Summon 1 Knight.
 - Destroy target Creature.
 - Put 3 Shield Counters on target Creature.
 
@@ -91,6 +157,8 @@ Rarity: GOLD
 Ritual(Slow)
 
 Remove all Counters from target Creature.
+
+Cycling - 1
 
 ------------------
 

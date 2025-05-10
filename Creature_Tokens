@@ -33,3 +33,9 @@ Creature - Fungus
 Str: 1
 Vit: 1
 ----------------------------
+Beast (GREEN)
+Creature - Beast
+
+Str: 3
+Vit: 3
+----------------------------

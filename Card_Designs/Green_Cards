@@ -8,7 +8,7 @@ Sporessa, Sporemother
 
 
 
-GOLD RARITY (1 / 3)
+GOLD RARITY (3 / 5)
 ------------------
 
 Spreading Moss
@@ -24,8 +24,51 @@ Creature(Slow) - Elemental
 Str: 2
 Vit: 3
 
+------------------
 
-WHITE RARITY (2 / 6)
+Carrion Grazer
+Cost: 3GG
+Rarity: GOLD
+
+Creature(Slow) - Beast
+
+1GG, vanish target Card from your Graveyard: Draw 1 Card.
+
+Str: 3
+Vit: 5
+
+------------------
+
+Druid of Nature
+Cost: 2G
+Rarity: GOLD
+
+Creature(Slow) - Elf
+
+EXHAUST: Generate GG.
+
+Str: 1
+Vit: 2
+
+------------------
+
+Leader of the Herd
+Cost: 2GG
+Rarity: GOLD
+
+Creature(Slow) - Beast
+
+Boast - 2GG: Summon 1 Beast.
+
+Str: 4
+Vit: 4
+
+
+
+
+
+
+WHITE RARITY (2 / 10)
 ------------------
 
 Mana-Weaver
@@ -51,7 +94,8 @@ Creature(Slow) - Bug
 If the Card was a Creature Card, put 1 Str and 1 Shield Counter on this Creature.
 
 Str: 0
-Vit: 2
+Vit: 1
+
 
 
 ------------------------------------------------------------------------------------------------------------
@@ -63,7 +107,7 @@ PURPLE RARITY (0 / 1)
 
 
 
-GOLD RARITY (1 / 3)
+GOLD RARITY (2 / 5)
 ------------------
 
 Charm of Growth
@@ -79,8 +123,20 @@ Choose one:
 
 ------------------
 
+Expand
+Cost: 2G
+Rarity: WHITE
 
-WHITE RARITY (2 / 6)
+Ritual (Slow)
+
+Search your Crystal Collection for a Small Mana Crystal Card.
+Put that Card onto the Field exhausted. Shuffle your Crystal Collection.
+
+
+
+
+
+WHITE RARITY (2 / 10)
 ------------------
 
 Stomping ahead
@@ -101,8 +157,11 @@ Rarity: WHITE
 
 Ritual (Slow)
 
-Return target Creature Card from your Graveyard to your Hand.
+Return a Creature Card or Mana Crystal Card from your Graveyard to your Hand
 You gain 4 Life.
+
+------------------
+
 
 
 

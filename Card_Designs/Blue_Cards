@@ -21,7 +21,7 @@ Vit: 5
 "Some say he is the last thing you will ever see."
 
 
-GOLD RARITY (1 / 3)
+GOLD RARITY (1 / 5)
 ------------------
 
 Frozen Golem
@@ -31,7 +31,7 @@ Rarity: GOLD
 Creature(Slow) - Golem
 
 Enters exhausted.
-When this Creature enters, put 6 Ice Counters
+When this Creature enters, put 7 Ice Counters
 and 1 Shield Counter on it.
 
 1BB: Remove 1 Ice Counter from this Creature.
@@ -43,7 +43,7 @@ Vit: 9
 
 
 
-WHITE RARITY: (4 / 6)
+WHITE RARITY (4 / 10)
 ------------------
 
 Frost Mammoth
@@ -97,7 +97,7 @@ Rarity: WHITE
 
 Creature (Slow) - Wizard
 
-When this Creature enters, return target Ritual from your Graveyard to your Hand.
+When this Creature enters, return target Ritual Card from your Graveyard to your Hand.
 
 Str: 2
 Vit: 2
@@ -111,9 +111,23 @@ Rituals:
 PURPLE RARITY (0 / 1)
 ------------------
 
+Carried by the Fairies
+Cost: BBBB
+Rarity: PURPLE
+
+Ritual(Fast)
+
+Deny target Spell.
+If that Spell gets denied this way, summon X Fairies,
+where X is that Spell's Cost.
+
+"They left as fast as they came."
 
 
-GOLD RARITY (2 / 3)
+
+
+
+GOLD RARITY (3 / 5)
 ------------------
 
 Obsessed with Knowledge
@@ -139,11 +153,22 @@ Choose one:
 - Bounce target Creature.
 - Foresight 1. Draw a Card.
 
+------------------
+
+Charged with Ideas
+Cost: 4BBB
+Rarity: GOLD
+
+Ritual(Slow)
+
+Draw 3 Cards.
+Prepare up to 5 Mana Crystals.
+
+Cylcing - 1B
 
 
 
-
-WHITE RARITY (3 / 6)
+WHITE RARITY (3 / 10)
 ------------------
 
 Denying Strike
