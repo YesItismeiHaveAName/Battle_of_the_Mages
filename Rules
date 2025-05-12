@@ -11,6 +11,32 @@ amount of Big Mana Crystals. The maximum amount of copies eligible for each Coll
 Cards Rarity.
 
 
+-> Rewrite:
+50 Card Deck, containing ALL Crystals, Creatures and Rituals.
+-> Rarity still changes the maximum amount of copies able to be played in any given deck.
+
+
+------------------------------------------------------------------------------------------
+Cards, Cardtypes and Zones:
+------------------------------------------------------------------------------------------
+
+Battle of the Mages contains several Cardtypes:
+
+Mana Crystal (big or small)
+Creature
+Ritual
+
+Creatures and Rituals are Considered to be Spells as long as they are on the Stack.
+As long as they are vanished or in your Graveyard, Hand or Spellbook, these will be regarded as Cards.
+-> Creatures are considered to be Creature Spells and Creature Cards
+-> Rituals are considered to be Ritual Spells and Rituals Cards.
+
+
+So when a Mage attempts a Spell (aka trying to play a Spell from their Hand, Graveyard, etc), Cards that target Spells
+can target these Cards for as long as they are on the Stack.
+The Moment they leave the Stack, they are no longer spells.
+
+
 
 Turn-Cycle:
 
@@ -33,3 +59,65 @@ Main-Step
 Combat-Step
 Main-Step
 End-Step
+
+
+
+----------
+COMBAT:
+----------
+
+The Combat-Step consists of several smaller Steps:
+Choose-Attacker-Step
+Choose-Blocker-Step
+Attack-Damage-Step
+Block-Damage-Step
+
+
+
+------------------------------------------------------------------------------------------
+Choose-Attacker-Step:
+------------------------------------------------------------------------------------------
+The active Mage chooses the Attackers for their Combat-Step.
+All Attackers have to be declared at the same time, they can only attack opposing Mages.
+Any Attacker has to be exhausted in order for it to attack, unless stated otherwise.
+(Attentiveness does cause Creatures to not exhaust when attacking).
+
+-> Right now the Boast-Ability triggers.
+If a Mage has multiple creatures with the Boast Ability, they can choose in what Order they want to resolve those.
+The Boast-Trigger goes on the Stack, no matter whether it needs to be paid for or not.
+Then the Mage controlling the Creature may choose the Targets or to pay the Costs and then Choose targets etc.
+After declaring all attackers, the non-active Mage can react.
+If they do or don't active Mage may now react.
+
+Note: Creatures that entered the Field cannot attack that Turn, unless they have / gain "Rush".
+
+If any Attacker gets removed from the Combat-Step or from the Field itself, it will never deal any Combat Damage.
+
+------------------------------------------------------------------------------------------
+Choose-Blocker-Step:
+------------------------------------------------------------------------------------------
+
+Now, the defending Mage can choose to block any Attacker using their creatures.
+Any Amount of Creatures can block any one Attacker. The Blockers have to be prepared in order for them to be able to
+declared as a Blocker. Now, active Mage may react. If they do or don't, non-active Mage can react.
+
+
+------------------------------------------------------------------------------------------
+Attack-Damage-Step
+------------------------------------------------------------------------------------------
+
+Now, all Attackers blocked by Creatures deal Combat Damage to these Blockers.
+If a Creature gets blocked by multiple Creatures, the active Mage may choose in what order to attack these Blockers.
+The Creature attacking needs to deal lethal amount to the first Blocker in order to be able to damage the
+second Blocker etc.
+
+All Attackers that where not blocked, deal Combat Damage to defending Mage.
+Active Mage may react.
+If they do or don't, the non-active Mage may.
+
+
+------------------------------------------------------------------------------------------
+Block-Damage-Step
+------------------------------------------------------------------------------------------
+
+Now, each Blocker deals Combat Damage

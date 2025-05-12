@@ -39,8 +39,8 @@ Shifting Crystal:
 Rarity: GOLD
 
 Enters exhausted.
-EXHAUST: Search your Crystal-Collection for a Small Mana Crystal, put it onto the Field
-exhausted, then shuffle your Crystal Collection.
+EXHAUST: Search your Spellbook for a Small Mana Crystal, put it onto the Field
+exhausted, then shuffle your Spellbook.
 
 --------------------------
 
@@ -53,12 +53,12 @@ RRR, EXHAUST(Slow): Deal 3 Damage to any Target.
 
 --------------------------
 
-Enlightening Crystal:
+Enlightened Crystal:
 Rarity: GOLD
 
 Enters exhausted.
 EXHAUST: Generate B.
-BBB, EXHAUST(Slow): Foresight 1, then draw 1 Card.
+BBB, EXHAUST(Slow): Foresight 2.
 
 --------------------------
 

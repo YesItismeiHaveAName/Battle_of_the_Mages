@@ -6,9 +6,9 @@ PURPLE RARITY (0 / 1)
 
 Sporessa, Sporemother
 
+~> Either BIG Creature, or Engine Piece
 
-
-GOLD RARITY (3 / 5)
+GOLD RARITY (4 / 5)
 ------------------
 
 Spreading Moss
@@ -26,19 +26,6 @@ Vit: 3
 
 ------------------
 
-Carrion Grazer
-Cost: 3GG
-Rarity: GOLD
-
-Creature(Slow) - Beast
-
-1GG, vanish target Card from your Graveyard: Draw 1 Card.
-
-Str: 3
-Vit: 5
-
-------------------
-
 Druid of Nature
 Cost: 2G
 Rarity: GOLD
@@ -48,7 +35,7 @@ Creature(Slow) - Elf
 EXHAUST: Generate GG.
 
 Str: 1
-Vit: 2
+Vit: 3
 
 ------------------
 
@@ -58,20 +45,34 @@ Rarity: GOLD
 
 Creature(Slow) - Beast
 
-Boast - 2GG: Summon 1 Beast.
+Boast - GG: Summon 1 Beast.
 
 Str: 4
 Vit: 4
 
-
-
-
-
-
-WHITE RARITY (2 / 10)
 ------------------
 
-Mana-Weaver
+Spore Collector
+Cost: 1GG
+Rarity: GOLD
+
+Creature(Slow) - Fungus
+
+Whenever a poisoned Creature dies, draw 1 Card.
+
+Str: 2
+Vit: 3
+
+
+
+
+
+
+
+WHITE RARITY (6 / 10)
+------------------
+
+Mana Weaver
 Cost: G
 Rarity: WHITE
 
@@ -93,8 +94,61 @@ Creature(Slow) - Bug
 1G: Exile target Card from a Graveyard. Heal this Creature for 1.
 If the Card was a Creature Card, put 1 Str and 1 Shield Counter on this Creature.
 
-Str: 0
+Str: 1
+Vit: 2
+
+------------------
+
+Carrion Grazer
+Cost: 3GG
+Rarity: WHITE
+
+Creature(Slow) - Beast
+
+1G, vanish target Card from your Graveyard: Draw 1 Card.
+
+Str: 3
+Vit: 3
+
+------------------
+
+Deep Wood Archer
+Cost: 1G
+Rarity: WHITE
+
+Creature(Slow) - Elf
+
+G: Put 1 Poison Counter on target Creature with Flying.
+1G: Put 1 Poison Counter on target Creature.
+
+Str: 1
+Vit: 2
+
+------------------
+
+Infested Fungus
+Cost: 1G
+Rarity: WHITE
+
+Creature(Slow) - Fungus
+
+When this Creature dies, put 1 Poison Counter
+on target Creature.
+
+Str: 1
 Vit: 1
+
+
+------------------
+
+Stomping Beast
+Cost: 5GG
+Rarity: WHITE
+
+Creature(Slow) - Beast
+
+Str: 5
+Vit: 6
 
 
 
@@ -107,40 +161,55 @@ PURPLE RARITY (0 / 1)
 
 
 
-GOLD RARITY (2 / 5)
+GOLD RARITY (3 / 5)
 ------------------
 
 Charm of Growth
 Cost: 2GGG
 Rarity: GOLD
 
-Ritual(Slow)
+Ritual(Fast)
 
 Choose one:
-- Put 3 Poison Counters on target Creature.
+- Put 4 Poison Counters on target Creature.
 - Summon 3 Fungus.
-- Gain 6 Life. Draw 1 Card.
+- Gain 5 Life. Draw 1 Card.
 
 ------------------
 
-Expand
-Cost: 2G
-Rarity: WHITE
+Blossom
+Cost: 1GG
+Rarity:GOLD
 
 Ritual (Slow)
 
-Search your Crystal Collection for a Small Mana Crystal Card.
-Put that Card onto the Field exhausted. Shuffle your Crystal Collection.
+Search your Spellbook for a Mana Crystal Card.
+Put that Card on the Field exhausted. Shuffle your Spellbook.
+
+------------------
+
+Toxic Mist
+Cost: 2G
+Rarity: GOLD
+
+Ritual (Slow)
+
+Put 1 Poison Counter on each Creature target Mage controls.
+
+Rebuy - 1G
 
 
 
 
 
-WHITE RARITY (2 / 10)
+
+
+
+WHITE RARITY (6 / 10)
 ------------------
 
 Stomping ahead
-Cost: 2G
+Cost: 3G
 Rarity: WHITE
 
 Ritual (Slow)
@@ -157,10 +226,56 @@ Rarity: WHITE
 
 Ritual (Slow)
 
-Return a Creature Card or Mana Crystal Card from your Graveyard to your Hand
+Return a Creature Card or Mana Crystal Card from your Graveyard to your Hand.
 You gain 4 Life.
 
 ------------------
+
+Natural Growth
+Cost: G
+Rarity: WHITE
+
+Ritual (Slow)
+
+Reveal the Top 5 Cards of your Spellbook. Choose 1 Creature or Mana Crystal Card from among
+them. Put that Card into your Hand and the Rest on the Bottom of your Spellbook in a random Order.
+
+------------------
+
+Natures Blessing
+Cost: 1G
+Rarity: WHITE
+
+Ritual (Slow)
+
+Choose one:
+- Heal target Creature for 2.
+- Put 1 Shield Counter on target Creature.
+- Put 1 Str Counter on target Creature.
+
+------------------
+
+Poisoned Dart
+Cost: G
+Rarity: WHITE
+
+Ritual (Fast)
+
+Put 1 Poison Counter on target Creature.
+
+Echo - 1G
+
+------------------
+
+Rooted in Nature
+Cost: GG
+Rarity: WHITE
+
+Ritual (Slow)
+
+Choose one:
+- Remove all Shield Counters from target Creature.
+- Remove all Str Counters from target Creature.
 
 
 

@@ -22,8 +22,8 @@ So if a card refers to the power of a Creature with 1 Str and 4 Str Counters on 
 
 Ice Counter:
 
-A Creature that has Ice Counter on it will NOT prepare during its Mage's Prepare-Step nor through any other Means.
-Instead, its Mage removes 1 Ice Counter from it.
+A Creature with Ice Counters on it cannot be prepared. If it would be prepared, nothing happens.
+After each Prepare-Step of that Creature's Mage, remove 1 Ice Counter from it.
 
 
 Shield Counter:

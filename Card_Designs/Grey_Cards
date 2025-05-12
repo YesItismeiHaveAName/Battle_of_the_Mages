@@ -20,7 +20,7 @@ Attentiveness
 
 2: This Creature gains Flying until the End of the Turn.
 
-3: This Creature deals 1 Damage to target Creature.
+2: This Creature deals 1 Damage to target Creature.
 
 3: Heal target Creature for 1.
 
@@ -29,7 +29,7 @@ Vit: 4
 
 ------------------
 
-Marching Sentinel
+Marching Golem
 Cost: 4
 Rarity: GOLD
 
@@ -45,16 +45,19 @@ Vit: 5
 
 ------------------
 
-Colossal Tyrant
+Enforcing Construct
 Cost: 8
 Rarity: GOLD
 
-Creature(Slow) - Beast
+Creature(Slow) - Construct
 
 Boast - Your Opponent offers a Creature.
 
 Str: 7
 Vit: 7
+
+------------------
+
 
 
 
@@ -95,6 +98,20 @@ EXHAUST, 2, vanish target Ritual Card from a Graveyard: Put 1 Str Counter on tar
 Str: 1
 Vit: 2
 
+------------------
+
+Prismatic Construct
+Cost: 1
+Rarity: WHITE
+
+Creature(Slow) - Construct
+
+1: Generate R or B or W or G.
+
+Str: 0
+Vit: 1
+
+
 
 
 
@@ -117,6 +134,13 @@ GOLD RARITY (1 / 5)
 WHITE RARITY (0 / 10)
 ------------------
 
+Mana Overload
+Cost: 1
+Rarity: WHITE
+
+Ritual (Slow)
+
+Generate 3.
 
 
 

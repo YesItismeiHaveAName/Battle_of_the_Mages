@@ -7,7 +7,7 @@ Varnyx, the Glacierborn
 Cost: 3BB
 Rarity: PURPLE
 
-Creature(Fast) - Titan
+Creature (Fast) - Titan
 
 When this Creature enters, put 1 Ice Counter on all other Creatures.
 Exhaust all other Creatures.
@@ -21,23 +21,72 @@ Vit: 5
 "Some say he is the last thing you will ever see."
 
 
-GOLD RARITY (1 / 5)
+
+
+GOLD RARITY (4 / 5)
 ------------------
 
-Frozen Golem
+Frozen Demon
 Cost: BB
 Rarity: GOLD
 
-Creature(Slow) - Golem
+Creature (Slow) - Demon
 
 Enters exhausted.
-When this Creature enters, put 7 Ice Counters
-and 1 Shield Counter on it.
+When this Creature enters, put 10 Ice Counters on it.
 
-1BB: Remove 1 Ice Counter from this Creature.
+Flying, Armor 1
 
-Str: 7
-Vit: 9
+1B: Remove 1 Ice Counter from this Creature.
+
+Str: 8
+Vit: 8
+
+------------------
+
+Ice Breath Dragon
+Cost: 2BB
+Rarity: GOLD
+
+Creature (Slow) - Dragon
+
+Flying
+
+Boast - B: Exhaust target Creature. Put 1 Ice Counter on it.
+
+Str: 3
+Vit: 3
+
+------------------
+
+Studying Wizard
+Cost: 2B
+Rarity: GOLD
+
+Creature (Slow) - Wizard
+
+B: Draw 1 Card, then discard 1 Card.
+
+Str: 1
+Vit: 1
+
+------------------
+
+Ever changing Elemental
+Cost: 3BB
+Rarity: GOLD
+
+Creature (Slow) - Elemental
+
+1: This Creature gains +1 Str until the End of the Turn.
+1: This Creature gains Flying until the End of the Turn.
+1: This Creature gains Attentiveness until the End of the Turn.
+B: Bounce this Creature.
+
+Str: 3
+Vit: 3
+
+
 
 
 
@@ -50,7 +99,7 @@ Frost Mammoth
 Cost: 2B
 Rarity: WHITE
 
-Creature(SLow) - Mammoth
+Creature (SLow) - Mammoth
 
 1BB: Put 1 Ice Counter on target Creature.
 Exhaust it.
@@ -65,7 +114,7 @@ Fairie Trickster
 Cost: 1B
 Rarity: WHITE
 
-Creature(Fast) - Fairie
+Creature (Fast) - Fairie
 
 Flying
 
@@ -80,7 +129,7 @@ Frightening Fairie
 Cost: 1BB
 Rarity: WHITE
 
-Creature(Fast) - Fairie
+Creature (Fast) - Fairie
 
 Flying
 
@@ -108,14 +157,14 @@ Vit: 2
 ------------------------------------------------------------------------------------------------------------
 Rituals:
 ------------------------------------------------------------------------------------------------------------
-PURPLE RARITY (0 / 1)
+PURPLE RARITY (1 / 1)
 ------------------
 
-Carried by the Fairies
-Cost: BBBB
+Carried away by Fairies
+Cost: 1BBB
 Rarity: PURPLE
 
-Ritual(Fast)
+Ritual (Fast)
 
 Deny target Spell.
 If that Spell gets denied this way, summon X Fairies,
@@ -127,16 +176,16 @@ where X is that Spell's Cost.
 
 
 
-GOLD RARITY (3 / 5)
+GOLD RARITY (5 / 5)
 ------------------
 
 Obsessed with Knowledge
 Cost: 3B
 Rarity: GOLD
 
-Ritual(Fast)
+Ritual (Fast)
 
-Draw 2 Cards. Discard 1 Card.
+Draw 2 Cards.
 
 Rebuy - BBB
 
@@ -146,7 +195,7 @@ Charm of Clarity
 Cost: BBB
 Rarity: GOLD
 
-Ritual(Fast)
+Ritual (Fast)
 
 Choose one:
 - Deny target Spell.
@@ -159,33 +208,56 @@ Charged with Ideas
 Cost: 4BBB
 Rarity: GOLD
 
-Ritual(Slow)
+Ritual (Slow)
 
 Draw 3 Cards.
 Prepare up to 5 Mana Crystals.
 
 Cylcing - 1B
 
+------------------
+
+Stuck in the Snow Storm
+Cost: 2BB
+Rarity: GOLD
+
+Ritual (Fast)
+
+Exhaust all Creatures target Mage controls.
+
+------------------
+
+Loose Focus
+Cost: 1B
+Rarity: GOLD
+
+Ritual (Fast)
+
+Put target Spell on top of its Mage's
+Spellbook.
 
 
-WHITE RARITY (3 / 10)
+
+
+
+WHITE RARITY (7 / 10)
 ------------------
 
 Denying Strike
 Cost: BB
 Rarity: WHITE
 
-Ritual(Fast)
+Ritual (Fast)
 
 Deny target Spell.
 
 ------------------
 
-Enlightening Study
+Lost in Thoughts
 Cost: 1B
 Rarity: WHITE
 
-Ritual(Slow)
+Ritual (Slow)
 
 Foresight 5.
 
@@ -195,10 +267,56 @@ Vision
 Cost: B
 Rarity: WHITE
 
-Ritual(Fast)
+Ritual (Fast)
 
 Foresight 1.
 Draw 1 Card.
+
+------------------
+
+Enlightening Study
+Cost: B
+Rarity: WHITE
+
+Ritual (Slow)
+
+Foresight 3.
+Draw 1 Card.
+
+------------------
+
+Snap back
+Cost: B
+Rarity: WHITE
+
+Ritual (Fast)
+
+Return target Creature to its Mage's hand.
+
+------------------
+
+Timeshift
+Cost: 1B
+Rarity: WHITE
+
+Ritual (Fast)
+
+Choose one:
+- Exhaust target Creature.
+- Prepare target Creature.
+
+Echo - 2B
+
+------------------
+
+Frozen on the Spot
+Cost: 1BB
+Rarity: WHITE
+
+Ritual (Fast)
+
+Exhaust target Creature.
+Put 2 Ice Counters on it.
 
 
 

@@ -14,7 +14,7 @@ Flying, Rush
 
 1R: This Creature deals 1 Damage to target Creature.
 
-Str: 5
+Str: 6
 Vit: 7
 
 "Her motherly Love never dies out."
@@ -34,13 +34,13 @@ Flying
 
 R: This Creature gains +1 Str until the End of Turn.
 
-Str: 3
-Vit: 4
+Str: 2
+Vit: 3
 
 ------------------
 
 Chain whirling Minotaur
-Cost: 1RRR
+Cost: 2RR
 Rarity: GOLD
 
 Creature (Slow) - Minotaur
@@ -48,11 +48,11 @@ Creature (Slow) - Minotaur
 2R, Discard 1 Card: This Creature Deals 2 Damage to any Target.
 
 Str: 4
-Vit: 4
+Vit: 3
 
 ------------------
 
-Great Dune Worm
+Great Cinder Worm
 Cost: 3RRR
 Rarity: GOLD
 
@@ -60,7 +60,7 @@ Creature (Slow) - Worm
 
 When this Creature enters, it deals 4 Damage to all other creatures.
 
-Str: 3
+Str: 4
 Vit: 4
 
 ------------------
@@ -84,7 +84,7 @@ Dragon Shamaness
 Cost: 1R
 Rarity: WHITE
 
-Creature (Slow) - Shaman
+Creature (Slow) - Human
 
 4R: Summon 1 Dragon.
 
@@ -107,7 +107,7 @@ Creature (Slow) - Minotaur
 
 1R, discard 1 Card: Your Opponent discards a Card.
 
-Str: 3
+Str: 2
 Vit: 3
 
 ------------------
@@ -152,7 +152,7 @@ Vit: 1
 ------------------
 
 Goblin Commander
-Cost: 3RR
+Cost: 2RRR
 Rarity: WHITE
 
 Creature (Slow) - Goblin
@@ -164,7 +164,7 @@ Vit: 2
 
 ------------------
 
-Adapting Lizard
+Adaptive Lizard
 Cost: RR
 Rarity: WHITE
 
@@ -172,7 +172,7 @@ Creature (Slow) - Lizard
 
 Boast - Discard 1 Card: Draw 1 Card.
 
-Str: 1
+Str: 2
 Vit: 1
 
 ------------------
@@ -199,7 +199,7 @@ Distorted Punishment
 Cost: 1RR
 Rarity: Purple
 
-Ritual(Slow)
+Ritual (Slow)
 
 Remove all Damage Counters from all Creatures.
 Repeat the Following for each Counter removed this way:
@@ -210,14 +210,16 @@ Deal 1 Damage to a Creature or Mage.
 
 
 
-GOLD RARITY (3 / 5)
+
+
+GOLD RARITY (4 / 5)
 ------------------
 
 Charm of Fire
 Cost: RR
 Rarity: GOLD
 
-Ritual(Slow)
+Ritual (Slow)
 
 Choose one:
 - Remove all Ice Counters from target Creature. Prepare it.
@@ -230,7 +232,7 @@ Eternal Heat
 Cost: 1RR
 Rarity: GOLD
 
-Ritual(Fast)
+Ritual (Fast)
 
 This Card deals 2 Damage to any Target.
 
@@ -240,18 +242,31 @@ Rebuy - 2R
 
 Impulsive Thinking
 Cost: R
+
 Rarity: GOLD
 
-Ritual(Slow)
+Ritual (Slow)
 
-Each Mage Draws 3 Cards.
+Each Mage Draws 4 Cards.
 Each Mage discards 3 Cards at Random.
 
+------------------
+
+Rain of Fire
+Cost: XRR
+Rarity: GOLD
+
+Ritual (Slow)
+
+Repeat the Following X Times:
+Deal 1 Damage to a Creature or a Mage.
 
 
 
 
-WHITE RARITY (6 / 10)
+
+
+WHITE RARITY (7 / 10)
 ------------------
 
 Magma Splash
@@ -306,10 +321,20 @@ Split Lightning
 Cost: 1R
 Rarity: White
 
-Ritual(Slow)
+Ritual (Slow)
 
 This Card deals 1 Damage to any Target
 and 1 Damage to any other Target.
+
+------------------
+
+Flame Whip
+Cost: XR
+Rarity: WHITE
+
+Ritual (Slow)
+
+Deal X Damage to target Creature.
 
 
 
