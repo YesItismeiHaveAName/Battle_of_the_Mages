@@ -10,9 +10,10 @@ Rarity: PURPLE
 
 Creature (Slow) - Dragon
 
-Flying, Rush
+Flying, Rush, Armor 2
 
-1R: This Creature deals 1 Damage to target Creature.
+R: This Creature deals 1 Damage to target Creature.
+1R: This Creature gains +1 Str until the End of the Turn.
 
 Str: 6
 Vit: 7
@@ -45,7 +46,7 @@ Rarity: GOLD
 
 Creature (Slow) - Minotaur
 
-2R, Discard 1 Card: This Creature Deals 2 Damage to any Target.
+2R, discard 1 Card: This Creature Deals 2 Damage to any Target.
 
 Str: 4
 Vit: 3
@@ -86,7 +87,7 @@ Rarity: WHITE
 
 Creature (Slow) - Human
 
-4R: Summon 1 Dragon.
+4RR: Summon 1 Dragon.
 
 Str: 2
 Vit: 2
@@ -96,7 +97,7 @@ Vit: 2
 
 
 
-WHITE RARITY (7 / 10)
+WHITE RARITY (9 / 10)
 ------------------
 
 Boasting Minotaur
@@ -131,10 +132,10 @@ Rarity: WHITE
 
 Creature (Slow) - Lizard
 
-When this Creature enters, it deals 3
+When this Creature enters, it deals 2
 Damage to target Creature.
 
-Str: 3
+Str: 2
 Vit: 2
 
 ------------------
@@ -170,9 +171,9 @@ Rarity: WHITE
 
 Creature (Slow) - Lizard
 
-Boast - Discard 1 Card: Draw 1 Card.
+Boast - 1, discard 1 Card: Draw 1 Card.
 
-Str: 2
+Str: 1
 Vit: 1
 
 ------------------
@@ -185,6 +186,35 @@ Creature (Slow) - Lizard
 
 Str: 2
 Vit: 2
+
+------------------
+
+Minotaur Brawler
+Cost: 2R
+Rarity: WHITE
+
+Creature (Slow) - Minotaur
+
+Rush
+
+Str: 3
+Vit: 2
+
+------------------
+
+Inspired Pyromancer
+Cost: RR
+Rarity: WHITE
+
+Creature (Slow) - Human
+
+R, Exile a Ritual Card from your Graveyard, EXHAUST:
+This Creature deals 2 Damage to any Target.
+
+Str: 1
+Vit: 2
+
+
 
 
 
@@ -203,7 +233,7 @@ Ritual (Slow)
 
 Remove all Damage Counters from all Creatures.
 Repeat the Following for each Counter removed this way:
-Deal 1 Damage to a Creature or Mage.
+This Card deals 1 Damage to a Creature or Mage.
 
 "By some Miracle, they carried our pain."
 
@@ -224,7 +254,7 @@ Ritual (Slow)
 Choose one:
 - Remove all Ice Counters from target Creature. Prepare it.
 - Discard one card. Draw 2 Cards.
-- Deal 1 Damage to all Creatures of target Mage.
+- This Card deals 1 Damage to all Creatures target Mage controls.
 
 ------------------
 
@@ -247,8 +277,8 @@ Rarity: GOLD
 
 Ritual (Slow)
 
-Each Mage Draws 4 Cards.
-Each Mage discards 3 Cards at Random.
+Each Mage draws 4 Cards.
+Each Mage discards 3 Cards at random.
 
 ------------------
 
@@ -259,14 +289,16 @@ Rarity: GOLD
 Ritual (Slow)
 
 Repeat the Following X Times:
-Deal 1 Damage to a Creature or a Mage.
+This Card deals 1 Damage to any Target.
 
 
 
 
 
 
-WHITE RARITY (7 / 10)
+
+
+WHITE RARITY (8 / 10)
 ------------------
 
 Magma Splash
@@ -292,7 +324,7 @@ Cost: RR
 Rarity: WHITE
 Ritual (Slow)
 
-Destroy target Mana Crystal.
+Destroy target Mana Crystal or Relic.
 This Card deals 1 Damage to its Owner.
 
 ------------------
@@ -323,8 +355,7 @@ Rarity: White
 
 Ritual (Slow)
 
-This Card deals 1 Damage to any Target
-and 1 Damage to any other Target.
+This Card deals 1 Damage to up to 2 Targets.
 
 ------------------
 
@@ -334,7 +365,20 @@ Rarity: WHITE
 
 Ritual (Slow)
 
-Deal X Damage to target Creature.
+This Card deals X Damage to target Creature.
+
+------------------
+
+Spark of Creativity
+Cost: 1R
+Rarity: WHITE
+
+Ritual (Fast)
+
+Discard 2 Cards.
+Draw 2 Cards.
+
+Cycling - R
 
 
 

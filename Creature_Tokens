@@ -39,3 +39,18 @@ Creature - Beast
 Str: 4
 Vit: 4
 ----------------------------
+Fairie (BLUE)
+Creature - Fairie
+
+Flying
+
+Str: 1
+Vit: 1
+----------------------------
+Kraken (BLUE)
+
+EXHAUST: Target Creature loses Flying until the End of the Turn.
+
+Str: 4
+Vit: 8
+----------------------------

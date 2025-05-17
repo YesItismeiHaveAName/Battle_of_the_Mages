@@ -38,6 +38,49 @@ The Moment they leave the Stack, they are no longer spells.
 
 
 
+
+------------------------------------------------------------------------------------------
+Targets and Modifiers:
+------------------------------------------------------------------------------------------
+
+When an Ability or Card targets a Creature, it may only target "modified" Creatures:
+flying / poisoned / damaged / exhausted Creature.
+When attempting the Card / Effect, the Target chosen has to fulfill the required Conditions to be a legal target:
+-> target flying Creature -> The Creature has to have Flying when attempting the Card / Ability
+-> target damaged Creature -> The Creature has to have Damage Counters on it when attempting the Card / Ability
+
+etc. The Game does not care whether the Creature does not have that modification when applying the Effects of the Card /
+Ability, it is only relevant when targeting. So if a Card would "destroy target flying Creature", you can only target
+Creatures with Flying. When the Stack comes to applying the Effect, the Game does not care whether the Target has lost Flying
+until then or not. So if a Creature has Flying, gets targeted by said Card, and then, before the Cards effect applies,
+loses Flying in any Way, the Card will still be applied.
+
+Target Modifiers:
+
+
+Counter-Specific States:
+
+poisoned -> Target has to have at least 1 Poison Counter on it.
+shielded -> Target has to have at least 1 Shield Counter on it.
+strengthened -> Target has to have at least 1 Str Counter on it.
+damaged -> Target has to have at least 1 Damage Counter on it.
+frozen -> Target has to have at least 1 Ice Counter on it.
+
+
+Keyword-Specific States:
+
+flying -> Target has to have Flying
+exhausted -> Target has to be exhausted
+prepared -> Target has to be prepared
+
+
+Step-Specific States:
+
+attacking -> Target has to be attacking. (Only capable during Combat steps)
+blocking -> Target has to be blocking. (Only capable during Combat steps)
+
+
+
 Turn-Cycle:
 
 At the beginning of the Game, players choose a Player to go first.
@@ -69,8 +112,7 @@ COMBAT:
 The Combat-Step consists of several smaller Steps:
 Choose-Attacker-Step
 Choose-Blocker-Step
-Attack-Damage-Step
-Block-Damage-Step
+Damage-Step
 
 
 
@@ -99,25 +141,16 @@ Choose-Blocker-Step:
 
 Now, the defending Mage can choose to block any Attacker using their creatures.
 Any Amount of Creatures can block any one Attacker. The Blockers have to be prepared in order for them to be able to
-declared as a Blocker. Now, active Mage may react. If they do or don't, non-active Mage can react.
+declared as a Blocker. If multiple Creatures block a Creature, the active Mage chooses in which order the attacking
+Creature will deal Damage to the Blockers.
+Now, active Mage may react. If they do or don't, non-active Mage can react.
 
 
 ------------------------------------------------------------------------------------------
-Attack-Damage-Step
+Damage-Step
 ------------------------------------------------------------------------------------------
 
-Now, all Attackers blocked by Creatures deal Combat Damage to these Blockers.
-If a Creature gets blocked by multiple Creatures, the active Mage may choose in what order to attack these Blockers.
-The Creature attacking needs to deal lethal amount to the first Blocker in order to be able to damage the
-second Blocker etc.
+Now, all Creatures deal Damage. All Blockers deal Damage to the Creature they are blocking, all Attackers deal Damage
+to the Creatures they are blocked by or the defending Player. All Damage Counters are placed at the same time.
+So all Creatures that are going to die to Damage will die at the same Time.
 
-All Attackers that where not blocked, deal Combat Damage to defending Mage.
-Active Mage may react.
-If they do or don't, the non-active Mage may.
-
-
-------------------------------------------------------------------------------------------
-Block-Damage-Step
-------------------------------------------------------------------------------------------
-
-Now, each Blocker deals Combat Damage

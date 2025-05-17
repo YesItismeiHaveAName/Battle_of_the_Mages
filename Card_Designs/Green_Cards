@@ -8,7 +8,9 @@ Sporessa, Sporemother
 
 ~> Either BIG Creature, or Engine Piece
 
-GOLD RARITY (4 / 5)
+
+
+GOLD RARITY (5 / 5)
 ------------------
 
 Spreading Moss
@@ -45,7 +47,7 @@ Rarity: GOLD
 
 Creature(Slow) - Beast
 
-Boast - GG: Summon 1 Beast.
+Boast - 1GG: Summon 1 Beast.
 
 Str: 4
 Vit: 4
@@ -58,10 +60,25 @@ Rarity: GOLD
 
 Creature(Slow) - Fungus
 
-Whenever a poisoned Creature dies, draw 1 Card.
+Whenever another poisoned Creature dies, draw 1 Card.
 
 Str: 2
 Vit: 3
+
+------------------
+
+Moldy Elemental
+Cost: 4GGG
+Rarity: GOLD
+
+Creature(Slow) - Elemental
+
+G, EXHAUST: Summon 1 Fungus.
+
+Str: 6
+Vit: 7
+
+
 
 
 
@@ -100,7 +117,7 @@ Vit: 2
 ------------------
 
 Carrion Grazer
-Cost: 3GG
+Cost: 2GG
 Rarity: WHITE
 
 Creature(Slow) - Beast
@@ -118,7 +135,7 @@ Rarity: WHITE
 
 Creature(Slow) - Elf
 
-G: Put 1 Poison Counter on target Creature with Flying.
+G(Slow): Put 1 Poison Counter on target flying Creature.
 1G: Put 1 Poison Counter on target Creature.
 
 Str: 1
@@ -157,6 +174,18 @@ Rituals:
 ------------------------------------------------------------------------------------------------------------
 PURPLE RARITY (0 / 1)
 ------------------
+
+Leading the Stampede
+Cost: 2GG
+Rarity: Purple
+
+Ritual (Slow)
+
+Prepare all Creatures target Mage controls.
+These Creatures gain +2 Strength until the End of the Turn.
+Heal each of these Creatures for 2.
+
+
 
 
 
@@ -205,7 +234,7 @@ Rebuy - 1G
 
 
 
-WHITE RARITY (6 / 10)
+WHITE RARITY (8 / 10)
 ------------------
 
 Stomping ahead
@@ -249,9 +278,11 @@ Rarity: WHITE
 Ritual (Slow)
 
 Choose one:
-- Heal target Creature for 2.
+- Heal target Creature for 1.
 - Put 1 Shield Counter on target Creature.
 - Put 1 Str Counter on target Creature.
+
+Rebuy (Slow) - 1G
 
 ------------------
 
@@ -271,11 +302,32 @@ Rooted in Nature
 Cost: GG
 Rarity: WHITE
 
-Ritual (Slow)
+Ritual (Fast)
 
 Choose one:
 - Remove all Shield Counters from target Creature.
 - Remove all Str Counters from target Creature.
+
+------------------
+
+Overgrown
+Cost: 1GG
+Rarity: WHITE
+
+Ritual (Fast)
+
+Destroy target Relic.
+Gain 2 Life.
+
+------------------
+
+Sprouting Season
+Cost: 1GGG
+Rarity: WHITE
+
+Ritual (Fast)
+
+Summon 2 Fungus.
 
 
 

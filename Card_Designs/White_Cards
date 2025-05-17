@@ -5,7 +5,7 @@ PURPLE RARITY (1 / 1)
 ------------------
 
 Aurelia, Voice of Pride
-Cost: 4WW
+Cost: 3WWW
 Rarity: PURPLE
 
 Creature (Slow) - Angel
@@ -28,7 +28,7 @@ Vit: 5
 
 
 
-GOLD RARITY (4 / 5)
+GOLD RARITY (5 / 5)
 ------------------
 
 Knight's Commander
@@ -37,9 +37,9 @@ Rarity: GOLD
 
 Creature (Slow) - Knight
 
-1W: Put 1 Str Counter or 1 Shield Counter on target Creature.
+2WW: Summon 1 Knight
 
-4W(Slow): Summon 2 Knights. Each Creature you control gains Rush until the End of Turn.
+2WWW, EXHAUST(Slow): Summon 2 Knights. Each Creature you control gains Rush until the End of Turn.
 
 Str: 2
 Vit: 4
@@ -55,7 +55,7 @@ Creature (Slow) - Angel
 Flying, Attentiveness
 
 Str: 4
-Vit: 4
+Vit: 5
 
 ------------------
 
@@ -65,27 +65,42 @@ Rarity: WHITE
 
 Creature (Slow) - Cleric
 
-1WWWW: Summon 1 Angel.
+4WW: Summon 1 Angel.
 
 Str: 0
 Vit: 3
 
 ------------------
 
-Light Dragon
-Cost: 2WWW
+Master Tactician
+Cost: 2W
 Rarity: GOLD
 
-Creature (Slow) - Dragon
+Creature (Fast) - Human
 
-Flying
+Attentiveness, Armor 1
 
-When this Creature enters, vanish target Creature.
+1W, EXHAUST(Slow): Reveal Cards from the Top of you Spellbook until you reveal a Creature Card.
+Put that Card into your Hand and the Rest on the Bottom of your Spellbook in a random Order.
 
-When this Creature leaves, put the exiled Card into its Mage's Hand.
+W, EXHAUST: Put 1 Shield Counter on target Creature.
+W, EXHAUST: Put 1 Str Counter on target Creature.
 
-Str: 3
-Vit: 3
+Str: 1
+Vit: 2
+
+------------------
+
+Saint of Last Breath
+Cost: 1W
+Rarity: WHITE
+
+Creature (Slow) - Human
+
+EXHAUST: Another target Creature gains Armor 3 until the End of the Turn.
+
+Str: 1
+Vit: 2
 
 
 
@@ -94,7 +109,7 @@ Vit: 3
 
 
 
-WHITE RARITY: (7 / 10)
+WHITE RARITY: (9 / 10)
 ------------------
 
 Companion Hawk
@@ -132,23 +147,8 @@ Rarity: WHITE
 
 Creature (Slow) - Spirit
 
-When this Creature enters, draw 1 Card.
-
 Str: 0
 Vit: 4
-
-------------------
-
-Saint of Last Breath
-Cost: 1W
-Rarity: WHITE
-
-Creature (Slow) - Human
-
-EXHAUST: Another target Creature gains Armor 3 until the End of the Turn.
-
-Str: 1
-Vit: 1
 
 ------------------
 
@@ -160,7 +160,7 @@ Creature (Slow) - Human
 
 Attentiveness
 
-Str: 3
+Str: 2
 Vit: 3
 
 ------------------
@@ -176,7 +176,7 @@ When this Creature enters, put 1 Shield Counter on it.
 1, remove 1 Shield Counter from this Creature: Draw 1 Card.
 
 Str: 1
-Vit: 2
+Vit: 1
 
 ------------------
 
@@ -201,10 +201,45 @@ Rarity: WHITE
 
 Creature (Slow) - Human
 
-1W, Exhaust: This Creature deals 2 Damage to target Creature.
+1W, Exhaust: This Creature deals 2 Damage to target exhausted Creature.
 
 Str: 3
 Vit: 3
+
+------------------
+
+Skilled Smithy
+Cost: 1W
+Rarity: WHITE
+
+Creature (Slow) - Human
+
+When this Creature enters, choose one:
+- Put 1 Str Counter on target Creature.
+- Put 1 Shield Counter on target Creature.
+
+Str: 1
+Vit: 3
+
+------------------
+
+
+Light Dragon
+Cost: 2WWW
+Rarity: GOLD
+
+Creature (Fast) - Dragon
+
+Flying
+
+When this Creature enters, vanish another target Creature.
+
+When this Creature leaves, your Opponent draws 1 Card.
+
+Str: 3
+Vit: 3
+
+
 
 
 ------------------------------------------------------------------------------------------------------------
@@ -214,10 +249,10 @@ PURPLE RARITY (1 / 1)
 ------------------
 
 Calling the Angels
-Cost: 5WWWW
+Cost: 5WWW
 Rarity: PURPLE
 
-Ritual(Slow)
+Ritual (Slow)
 
 Summon 3 Angels.
 Gain 8 Life.
@@ -229,14 +264,14 @@ Gain 8 Life.
 
 
 
-GOLD RARITY (4 / 5)
+GOLD RARITY (5 / 5)
 ------------------
 
 Charm of Commitment
-Cost: 1WW
+Cost: 2WW
 Rarity: GOLD
 
-Ritual(Fast)
+Ritual (Fast)
 
 Choose one:
 - Summon 1 Knight.
@@ -246,10 +281,10 @@ Choose one:
 ------------------
 
 Cleansing Light
-Cost: 1W
+Cost: 1WW
 Rarity: GOLD
 
-Ritual(Slow)
+Ritual (Slow)
 
 Remove all Counters from target Creature.
 
@@ -261,21 +296,31 @@ Total Cleansing
 Cost: 2WW
 Rarity: GOLD
 
-Ritual(Slow)
+Ritual (Slow)
 
 Destroy all Creatures.
 
 ------------------
 
-Holy Light
-Cost: 1WWW
+Assembling Forces
+Cost: 1WW
 Rarity: GOLD
 
-Ritual(Fast)
+Ritual (Slow)
 
-Choose one:
-- Vanish target Creature.
-- Summon 1 Angel.
+Your Opponent may choose a Creature Card from their Hand and put it on the Field under their Control.
+You may choose a Creature Card from your Hand and put it on the Field under your Control.
+
+------------------
+
+Standing the Ground
+Cost: 3WW
+Rarity: GOLD
+
+Ritual (Slow)
+
+Prepare all Creatures target Mage controls.
+Heal each of these Creatures for 1.
 
 
 
@@ -283,18 +328,22 @@ Choose one:
 
 
 
-WHITE RARITY (6 / 10)
+
+
+
+
+WHITE RARITY (10 / 10)
 ------------------
 
 Cleaning the Past
 Cost: 1W
 Rarity: WHITE
 
-Ritual(Fast)
+Ritual (Fast)
 
 Vanish all Cards from all Graveyards.
 
-Cycling - 1W
+Cycling - W
 
 ------------------
 
@@ -302,7 +351,7 @@ Calling Back up
 Cost: 2WW
 Rarity: WHITE
 
-Ritual(Slow)
+Ritual (Slow)
 
 Summon 2 Knights.
 
@@ -313,7 +362,7 @@ Forgiveness
 Cost: 1W
 Rarity: WHITE
 
-Ritual(Fast)
+Ritual (Fast)
 
 Vanish target Creature.
 Its Mage gains Life equal to its Str.
@@ -324,7 +373,7 @@ Divide and Destroy
 Cost: 3WW
 Rarity: WHITE
 
-Ritual(Slow)
+Ritual (Slow)
 
 Choose one:
 - Destroy all Creatures with Str 3 or less.
@@ -332,26 +381,68 @@ Choose one:
 
 ------------------
 
-Equality
-Cost: 2WWW
+Answered Prayers
+Cost: 2W
 Rarity: WHITE
 
-Ritual(Slow)
+Ritual (Fast)
 
-If target Mage controls a Creature with Str 4 or greater, summon 1 Dragon.
-If that Mage has more Life than you, gain 5 Life.
-If that Mage controls more Mana Crystals than you, search your Spellbook for a
-small Mana Crystal, put it on the Field exhausted, then shuffle your Spellbook.
+Gain 4 Life.
+Draw 1 Card.
 
 ------------------
 
 Strike back
+Cost: WW
+Rarity: WHITE
+
+Ritual (Fast)
+
+This Card deals 4 Damage to target attacking Creature.
+
+------------------
+
+Holy Light
+Cost: 2WWW
+Rarity: WHITE
+
+Ritual (Slow)
+
+Choose one:
+- Vanish target Creature.
+- Vanish target Relic.
+- Summon 1 Angel.
+
+------------------
+
+Fairness
+Cost: W
+Rarity: WHITE
+
+Ritual (Slow)
+
+Until the End of the Turn, all Mages play with their Hands revealed.
+
+------------------
+
+Steadfast
 Cost: 1W
 Rarity: WHITE
 
-Ritual(Fast)
+Ritual (Fast)
 
-This Card deals 4 Damage to target attacking Creature.
+Prepare up to 2 target Creatures.
+
+------------------
+
+Aurelia's Gift
+Cost: 1W
+Rarity: WHITE
+
+Ritual (Fast)
+
+Target Creature gains Flying and
+Armor 1 until the End of the Turn.
 
 
 

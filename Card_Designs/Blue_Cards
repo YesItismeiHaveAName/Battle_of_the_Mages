@@ -3,27 +3,32 @@ Creatures:
 ------------------------------------------------------------------------------------------------------------
 PURPLE RARITY (1 / 1)
 ------------------
+
 Varnyx, the Glacierborn
 Cost: 3BB
 Rarity: PURPLE
 
 Creature (Fast) - Titan
 
-When this Creature enters, put 1 Ice Counter on all other Creatures.
-Exhaust all other Creatures.
+When this Creature enters, exhaust all other Creatures.
+Put 1 Ice Counter on each other Creature.
 
-2B: Put 1 Ice Counter on target Creature.
+2B: Exhaust target Creature. Put 1 Ice Counter on it.
+
+B, remove 2 Ice Counters from target Creature(Slow): Draw 1 Card.
 
 Str: 2
 Vit: 5
 
 
-"Some say he is the last thing you will ever see."
+"Some say his own Blood is colder than the Ice he spreads."
 
 
 
 
-GOLD RARITY (4 / 5)
+
+
+GOLD RARITY (5 / 5)
 ------------------
 
 Frozen Demon
@@ -72,18 +77,33 @@ Vit: 1
 
 ------------------
 
-Ever changing Elemental
-Cost: 3BB
+Warrior of the Fairies
+Cost: 2BB
 Rarity: GOLD
 
-Creature (Slow) - Elemental
+Creature (Fast) - Fairie
 
-1: This Creature gains +1 Str until the End of the Turn.
-1: This Creature gains Flying until the End of the Turn.
-1: This Creature gains Attentiveness until the End of the Turn.
-B: Bounce this Creature.
+1BB: Summon 1 Fairie.
 
-Str: 3
+1BBB: All Creatures you control gain +1 Str and Armor 1 until the End of the Turn.
+
+
+Str: 2
+Vit: 2
+
+------------------
+
+Old Wise Wizard
+Cost: 1BB
+Rarity: GOLD
+
+Creature (Slow) - Human
+
+1B, EXHAUST (Slow): Foresight 2.
+BB, EXHAUST (Slow): Draw 1 Card.
+2BB, EXHAUST, OFFER this Creature: Deny target Spell.
+
+Str: 1
 Vit: 3
 
 
@@ -92,7 +112,7 @@ Vit: 3
 
 
 
-WHITE RARITY (4 / 10)
+WHITE RARITY (10 / 10)
 ------------------
 
 Frost Mammoth
@@ -101,8 +121,7 @@ Rarity: WHITE
 
 Creature (SLow) - Mammoth
 
-1BB: Put 1 Ice Counter on target Creature.
-Exhaust it.
+1BB: Exhaust target Creature. Put 1 Ice Counter on it.
 
 Str: 1
 Vit: 5
@@ -118,7 +137,7 @@ Creature (Fast) - Fairie
 
 Flying
 
-3B: Draw 1 Card.
+2B: Draw 1 Card.
 
 Str: 1
 Vit: 1
@@ -152,6 +171,98 @@ Str: 2
 Vit: 2
 
 
+------------------
+
+Wind Dragon
+Cost: 4B
+Rarity: WHITE
+
+Creature (Slow) - Dragon
+
+Flying
+
+When this Creature enters, bounce another target Creature.
+
+Str: 3
+Vit: 3
+
+------------------
+
+Ever changing Elemental
+Cost: 3BB
+Rarity: GOLD
+
+Creature (Slow) - Elemental
+
+1: This Creature gains +1 Str until the End of the Turn.
+2: This Creature gains Flying until the End of the Turn.
+2: This Creature gains Attentiveness until the End of the Turn.
+B: Bounce this Creature.
+
+Str: 3
+Vit: 3
+
+------------------
+
+Oppressive Fairie
+Cost: BB
+Rarity: White
+
+Creature (Fast) - Fairie
+
+Flying
+
+Str: 2
+Vit: 2
+
+------------------
+
+Musewing Fairie
+Cost: 1B
+Rarity: White
+
+Creature (Fast) - Fairie
+
+Flying
+
+EXHAUST 4 Creatures you control: Draw 1 Card.
+
+Str: 1
+Vit: 2
+
+------------------
+
+Manipulative Fairie
+Cost: 1B
+Rarity: White
+
+Creature (Fast) - Fairie
+
+Flying
+
+When this Creature enters, exhaust target Creature.
+
+Str: 1
+Vit: 1
+
+------------------
+
+Fairie Visionary
+Cost: 1B
+Rarity: White
+
+Creature (Slow) - Fairie
+
+Flying
+
+When this Creature enters, Foresight 2.
+
+Str: 1
+Vit: 1
+
+
+
+
 
 
 ------------------------------------------------------------------------------------------------------------
@@ -166,9 +277,9 @@ Rarity: PURPLE
 
 Ritual (Fast)
 
-Deny target Spell.
-If that Spell gets denied this way, summon X Fairies,
-where X is that Spell's Cost.
+Choose one:
+- Deny target Spell.
+- Summon X Fairies, where X is target Spell's Costs.
 
 "They left as fast as they came."
 
@@ -180,7 +291,7 @@ GOLD RARITY (5 / 5)
 ------------------
 
 Obsessed with Knowledge
-Cost: 3B
+Cost: 2BB
 Rarity: GOLD
 
 Ritual (Fast)
@@ -205,13 +316,13 @@ Choose one:
 ------------------
 
 Charged with Ideas
-Cost: 4BBB
+Cost: 5BB
 Rarity: GOLD
 
 Ritual (Slow)
 
 Draw 3 Cards.
-Prepare up to 5 Mana Crystals.
+Prepare up to 3 Mana Crystals.
 
 Cylcing - 1B
 
@@ -233,14 +344,15 @@ Rarity: GOLD
 
 Ritual (Fast)
 
-Put target Spell on top of its Mage's
+Put target Spell on Top of its Mage's
 Spellbook.
 
 
 
 
 
-WHITE RARITY (7 / 10)
+
+WHITE RARITY (8 / 10)
 ------------------
 
 Denying Strike
@@ -275,7 +387,7 @@ Draw 1 Card.
 ------------------
 
 Enlightening Study
-Cost: B
+Cost: 1B
 Rarity: WHITE
 
 Ritual (Slow)
@@ -291,7 +403,7 @@ Rarity: WHITE
 
 Ritual (Fast)
 
-Return target Creature to its Mage's hand.
+Bounce target Creature.
 
 ------------------
 
@@ -317,6 +429,18 @@ Ritual (Fast)
 
 Exhaust target Creature.
 Put 2 Ice Counters on it.
+
+------------------
+
+Pressured by the Masses
+Cost: 1B
+Rarity: WHITE
+
+Ritual (Fast)
+
+Choose one:
+- Summon 1 Fairie.
+- Deny target Creature Spell unless its Mage pays 2.
 
 
 
