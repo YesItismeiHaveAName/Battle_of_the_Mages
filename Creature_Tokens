@@ -22,10 +22,10 @@ Vit: 1
 Dragon (RED)
 Creature - Dragon
 
-Flying
+Flying, Rush
 
-Str: 5
-Vit: 5
+Str: 4
+Vit: 4
 ----------------------------
 Fungus (GREEN)
 Creature - Fungus
@@ -51,6 +51,6 @@ Kraken (BLUE)
 
 EXHAUST: Target Creature loses Flying until the End of the Turn.
 
-Str: 4
+Str: 5
 Vit: 8
 ----------------------------

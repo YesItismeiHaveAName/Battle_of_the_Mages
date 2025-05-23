@@ -59,7 +59,7 @@ Rarity: GOLD
 
 Creature (Slow) - Worm
 
-When this Creature enters, it deals 4 Damage to all other creatures.
+When this Creature enters, it deals 3 Damage to all other Creatures.
 
 Str: 4
 Vit: 4
@@ -74,7 +74,7 @@ Creature (Slow) - Golem
 
 1, OFFER a Creature: This Creature deals 1 Damage to any Target.
 
-2, OFFER a Mana Crystal: Draw 1 Card.
+1, OFFER a Crystal: Draw 1 Card.
 
 Str: 3
 Vit: 3
@@ -97,7 +97,7 @@ Vit: 2
 
 
 
-WHITE RARITY (9 / 10)
+WHITE RARITY (10 / 10)
 ------------------
 
 Boasting Minotaur
@@ -214,6 +214,19 @@ This Creature deals 2 Damage to any Target.
 Str: 1
 Vit: 2
 
+------------------
+
+Trashing Minotaur
+Cost: 2R
+Rarity: WHITE
+
+Creature (Slow) - Minotaur
+
+Rush
+
+Str: 3
+Vit: 2
+
 
 
 
@@ -242,7 +255,7 @@ This Card deals 1 Damage to a Creature or Mage.
 
 
 
-GOLD RARITY (4 / 5)
+GOLD RARITY (5 / 5)
 ------------------
 
 Charm of Fire
@@ -264,9 +277,9 @@ Rarity: GOLD
 
 Ritual (Fast)
 
-This Card deals 2 Damage to any Target.
+This Card deals 3 Damage to any Target.
 
-Rebuy - 2R
+Rebuy - 1R
 
 ------------------
 
@@ -288,8 +301,17 @@ Rarity: GOLD
 
 Ritual (Slow)
 
-Repeat the Following X Times:
-This Card deals 1 Damage to any Target.
+This Card deals X Damage to each Creature.
+
+------------------
+
+Horns of Disaster
+Cost: 2RR
+Rarity: GOLD
+
+Ritual (Fast)
+
+All Creatures gain +2 Str until the End of the Turn.
 
 
 
@@ -298,7 +320,8 @@ This Card deals 1 Damage to any Target.
 
 
 
-WHITE RARITY (8 / 10)
+
+WHITE RARITY (10 / 10)
 ------------------
 
 Magma Splash
@@ -367,6 +390,8 @@ Ritual (Slow)
 
 This Card deals X Damage to target Creature.
 
+Cycling - 1R
+
 ------------------
 
 Spark of Creativity
@@ -378,7 +403,30 @@ Ritual (Fast)
 Discard 2 Cards.
 Draw 2 Cards.
 
-Cycling - R
+------------------
+
+Surprising Ambush
+Cost: 1RR
+Rarity: WHITE
+
+Ritual (Fast)
+
+Summon 2 Goblins.
+
+------------------
+
+Fiery Entrance
+Cost: 3RRR
+Rarity: WHITE
+
+Ritual (Slow)
+
+This Card deals 2 Damage to each Creature.
+Summon 1 Dragon.
+
+
+
+
 
 
 

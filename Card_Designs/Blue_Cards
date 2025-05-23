@@ -298,7 +298,7 @@ Ritual (Fast)
 
 Draw 2 Cards.
 
-Rebuy - BBB
+Rebuy - 1BB
 
 ------------------
 
@@ -352,7 +352,7 @@ Spellbook.
 
 
 
-WHITE RARITY (8 / 10)
+WHITE RARITY (10 / 10)
 ------------------
 
 Denying Strike
@@ -442,7 +442,24 @@ Choose one:
 - Summon 1 Fairie.
 - Deny target Creature Spell unless its Mage pays 2.
 
+------------------
 
+Memory Extraction
+Cost: 1B
+Rarity: WHITE
 
+Ritual (Fast)
 
+Shuffle up to 3 target Cards from your
+Graveyard into your Spellbook.
 
+------------------
+
+Call of the Tides
+Cost: 5BB
+Rarity: WHITE
+
+Ritual (Fast)
+
+Bounce all Creatures.
+Summon 1 Kraken.

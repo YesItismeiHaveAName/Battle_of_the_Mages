@@ -1,5 +1,5 @@
 --------------------------------------------------
-Small Mana Crystals:
+Small Crystals:
 --------------------------------------------------
 
 
@@ -12,26 +12,38 @@ Green
 
 
 --------------------------------------------------
-Big Mana Crystals:
+Crystals:
 --------------------------------------------------
 
-Constructed Mana Crystal:
+Constructed Crystal:
 Rarity: GOLD
 
-EXHAUST: Generate 1.
+EXHAUST: Generate C.
 
-1: Until the End of the Turn, this Mana
-Crystal becomes a Construct Creature (Str: 2, Vit: 1) with Rush.
-It remains a Big Mana Crystal.
+1: Until the End of the Turn, this Crystal becomes
+a Construct Creature (Str: 2, Vit: 1) with Rush.
+It remains a Crystal.
 
 --------------------------
 
 Collapsing Crystal:
 Rarity: GOLD
 
-EXHAUST: Generate 1.
+EXHAUST: Generate C.
 
-1, EXHAUST: Destroy target Big Mana Crystal. Offer this Mana Crystal.
+1, EXHAUST: Destroy target Crystal. Offer this Crystal.
+
+--------------------------
+
+Energizing Crystal:
+Rarity: GOLD
+
+
+Enters exhausted.
+
+EXHAUST: Generate C.
+
+1, EXHAUST(Slow): Prepare target Creature.
 
 --------------------------
 
@@ -39,7 +51,7 @@ Shifting Crystal:
 Rarity: GOLD
 
 Enters exhausted.
-EXHAUST: Search your Spellbook for a Small Mana Crystal, put it onto the Field
+EXHAUST: Search your Spellbook for a Small Crystal, put it onto the Field
 exhausted, then shuffle your Spellbook.
 
 --------------------------
@@ -89,14 +101,6 @@ Rarity: WHITE
 
 Enters exhausted.
 EXHAUST: Generate B or R.
-
---------------------------
-
-Turquoise Crystal:
-Rarity: WHITE
-
-Enters exhausted.
-EXHAUST: Generate B or G.
 
 --------------------------
 

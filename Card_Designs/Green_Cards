@@ -1,12 +1,25 @@
 ------------------------------------------------------------------------------------------------------------
 Creatures:
 ------------------------------------------------------------------------------------------------------------
-PURPLE RARITY (0 / 1)
+PURPLE RARITY (1 / 1)
 ------------------
 
 Sporessa, Sporemother
+Cost: 2GG
+Rarity: PURPLE
 
-~> Either BIG Creature, or Engine Piece
+1G: Put 1 Poison Counter on target Creature.
+1G, vanish 3 Cards from a Graveyard: Draw 1 Card.
+1, remove 1 Poison Counter from a Creature: Summon 1 Fungus.
+G, OFFER X Creatures, EXHAUST(Slow): This Creature deals X Damage to any Target.
+
+Str: 1
+Vit: 5
+
+"Despite their poisonous Gas, they embody pure Happiness."
+
+
+
 
 
 
@@ -19,7 +32,7 @@ Rarity: GOLD
 
 Creature(Slow) - Elemental
 
-1, OFFER a Creature: Put 1 Poison Counter on target Creature.
+1G, OFFER a Creature: Put 1 Poison Counter on target Creature.
 
 2GG: Summon 2 Fungus.
 
@@ -37,7 +50,7 @@ Creature(Slow) - Elf
 EXHAUST: Generate GG.
 
 Str: 1
-Vit: 3
+Vit: 2
 
 ------------------
 
@@ -75,7 +88,7 @@ Creature(Slow) - Elemental
 
 G, EXHAUST: Summon 1 Fungus.
 
-Str: 6
+Str: 7
 Vit: 7
 
 
@@ -86,7 +99,7 @@ Vit: 7
 
 
 
-WHITE RARITY (6 / 10)
+WHITE RARITY (10 / 10)
 ------------------
 
 Mana Weaver
@@ -159,12 +172,74 @@ Vit: 1
 ------------------
 
 Stomping Beast
-Cost: 5GG
+Cost: 7G
 Rarity: WHITE
 
 Creature(Slow) - Beast
 
-Str: 5
+Cycling - 1
+
+Str: 8
+Vit: 8
+
+------------------
+
+Overgrown Golem
+Cost: 2GGG
+Rarity: WHITE
+
+Creature(Slow) - Golem
+
+When this Creature enters, gain 4 Life.
+
+When this Creature dies, summon 2 Fungus.
+
+Str: 4
+Vit: 2
+
+------------------
+
+Verdant Beastcaller
+Cost: 4GG
+Rarity: WHITE
+
+Creature(Slow) - Human
+
+When this Creature enters, choose one:
+- Summon 1 Beast.
+- Summon 3 Fungus.
+
+Str: 1
+Vit: 2
+
+------------------
+
+Chewing Beast
+Cost: 2G
+Rarity: WHITE
+
+Creature(Slow) - Beast
+
+1, OFFER this Creature: Destroy target Relic.
+
+Str: 2
+Vit: 2
+
+------------------
+
+Ancient Golem
+Cost: 5GGG
+Rarity: WHITE
+
+Creature(Slow) - Golem
+
+Armor 1
+
+1G, Exhaust (Slow): This Creature deals 2 Damage to target flying Creature.
+
+Cycling - G
+
+Str: 6
 Vit: 6
 
 
@@ -172,11 +247,11 @@ Vit: 6
 ------------------------------------------------------------------------------------------------------------
 Rituals:
 ------------------------------------------------------------------------------------------------------------
-PURPLE RARITY (0 / 1)
+PURPLE RARITY (1 / 1)
 ------------------
 
 Leading the Stampede
-Cost: 2GG
+Cost: 3GG
 Rarity: Purple
 
 Ritual (Slow)
@@ -190,7 +265,8 @@ Heal each of these Creatures for 2.
 
 
 
-GOLD RARITY (3 / 5)
+
+GOLD RARITY (5 / 5)
 ------------------
 
 Charm of Growth
@@ -206,14 +282,16 @@ Choose one:
 
 ------------------
 
-Blossom
-Cost: 1GG
-Rarity:GOLD
+Eternal Blossom
+Cost: 3GG
+Rarity: GOLD
 
 Ritual (Slow)
 
-Search your Spellbook for a Mana Crystal Card.
-Put that Card on the Field exhausted. Shuffle your Spellbook.
+Search your Spellbook for up to 2 Crystal Cards,
+put them on the Field exhausted, then shuffle your Spellbook.
+
+Summon 1 Fungus.
 
 ------------------
 
@@ -227,6 +305,26 @@ Put 1 Poison Counter on each Creature target Mage controls.
 
 Rebuy - 1G
 
+------------------
+
+Blessed by Nature
+Cost: G
+Rarity: GOLD
+
+Ritual (Fast)
+
+Heal target Creature for 3.
+
+------------------
+
+Collected Strength
+Cost: 2G
+Rarity: GOLD
+
+Ritual (Slow)
+
+Up to 2 target Creatures you control deal
+Damage equal to their Str to target Creature.
 
 
 
@@ -234,7 +332,9 @@ Rebuy - 1G
 
 
 
-WHITE RARITY (8 / 10)
+
+
+WHITE RARITY (10 / 10)
 ------------------
 
 Stomping ahead
@@ -299,14 +399,14 @@ Echo - 1G
 ------------------
 
 Rooted in Nature
-Cost: GG
+Cost: 1GG
 Rarity: WHITE
 
 Ritual (Fast)
 
 Choose one:
-- Remove all Shield Counters from target Creature.
-- Remove all Str Counters from target Creature.
+- Remove all Shield Counter from target Creature.
+- Remove all Str Counter from target Creature.
 
 ------------------
 
@@ -329,6 +429,34 @@ Ritual (Fast)
 
 Summon 2 Fungus.
 
+------------------
 
+Blossom
+Cost: 1GG
+Rarity: WHITE
 
+Ritual (Slow)
 
+Search your Spellbook for a Crystal Card.
+Put that Card on the Field exhausted. Shuffle your Spellbook.
+
+------------------
+
+Stomp
+Cost: 1GG
+Rarity: WHITE
+
+Ritual (Slow)
+
+Target Creature you control deals Damage
+equal to its Str to target Creature.
+
+------------------
+
+Bound to the Ground
+Cost: 2G
+Rarity: WHITE
+
+Ritual (Fast)
+
+Destroy target flying Creature.

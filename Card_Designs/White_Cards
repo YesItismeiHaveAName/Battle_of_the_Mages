@@ -46,7 +46,7 @@ Vit: 4
 
 ------------------
 
-Guardian of the Folk
+Guardian of the Town
 Cost: 3WW
 Rarity: GOLD
 
@@ -308,25 +308,19 @@ Rarity: GOLD
 
 Ritual (Slow)
 
-Your Opponent may choose a Creature Card from their Hand and put it on the Field under their Control.
 You may choose a Creature Card from your Hand and put it on the Field under your Control.
+Your Opponent may choose a Creature Card from their Hand and put it on the Field under their Control.
 
 ------------------
 
 Standing the Ground
-Cost: 3WW
+Cost: 2WW
 Rarity: GOLD
 
 Ritual (Slow)
 
 Prepare all Creatures target Mage controls.
 Heal each of these Creatures for 1.
-
-
-
-
-
-
 
 
 
@@ -377,7 +371,7 @@ Ritual (Slow)
 
 Choose one:
 - Destroy all Creatures with Str 3 or less.
-- Destroy all Creatures with Str 4 or more.
+- Destroy all Creatures with Str 4 or greater.
 
 ------------------
 
@@ -421,7 +415,8 @@ Rarity: WHITE
 
 Ritual (Slow)
 
-Until the End of the Turn, all Mages play with their Hands revealed.
+Until the End of the Turn, all Mages play with their Cards in Hands revealed.
+Draw 1 Card.
 
 ------------------
 
