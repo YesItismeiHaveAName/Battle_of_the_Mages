@@ -97,11 +97,11 @@ Vit: 2
 
 
 
-WHITE RARITY (10 / 10)
+WHITE RARITY (9 / 10)
 ------------------
 
 Boasting Minotaur
-Cost: 1RR
+Cost: 2R
 Rarity: WHITE
 
 Creature (Slow) - Minotaur
@@ -126,7 +126,7 @@ Vit: 1
 
 ------------------
 
-Fire-Spit Lizard
+Fire spitting Lizard
 Cost: 1RR
 Rarity: WHITE
 
@@ -173,8 +173,8 @@ Creature (Slow) - Lizard
 
 Boast - 1, discard 1 Card: Draw 1 Card.
 
-Str: 1
-Vit: 1
+Str: 2
+Vit: 2
 
 ------------------
 
@@ -190,7 +190,7 @@ Vit: 2
 ------------------
 
 Minotaur Brawler
-Cost: 2R
+Cost: 1RR
 Rarity: WHITE
 
 Creature (Slow) - Minotaur
@@ -198,7 +198,7 @@ Creature (Slow) - Minotaur
 Rush
 
 Str: 3
-Vit: 2
+Vit: 3
 
 ------------------
 
@@ -216,17 +216,17 @@ Vit: 2
 
 ------------------
 
-Trashing Minotaur
-Cost: 2R
+Goblin Priest
+Cost: 1R
 Rarity: WHITE
 
-Creature (Slow) - Minotaur
+Creature (Slow) - Goblin
 
-Rush
+1, EXHAUST: Heal target Creature for 2. This Creature deals 1 Damage to itself.
+1R, EXHAUST: Heal target Creature for 1.
 
-Str: 3
-Vit: 2
-
+Str: 0
+Vit: 3
 
 
 
