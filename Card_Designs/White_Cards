@@ -246,13 +246,13 @@ Rarity: WHITE
 
 Creature (Slow) - Human
 
-When this Creature enters, put 3 Shield and 3 Str Counter on it.
+When this Creature enters, put 4 Shield and 4 Str Counter on it.
 
-1, remove 1 Shield Counter from this Creature(Slow): Put 1 Shield Counter on target Creature.
-1, remove 1 Str Counter from this Creature(Slow): Put 1 Str Counter on target Creature.
+1, remove 1 Shield Counter from this Creature: Put 1 Shield Counter on target Creature.
+1, remove 1 Str Counter from this Creature: Put 1 Str Counter on target Creature.
 
 Str: 0
-Vit: 2
+Vit: 1
 
 
 
