@@ -190,7 +190,7 @@ Vit: 3
 
 Ever changing Elemental
 Cost: 3BB
-Rarity: GOLD
+Rarity: WHITE
 
 Creature (Slow) - Elemental
 
@@ -206,7 +206,7 @@ Vit: 3
 
 Oppressive Fairie
 Cost: BB
-Rarity: White
+Rarity: WHITE
 
 Creature (Fast) - Fairie
 
@@ -219,7 +219,7 @@ Vit: 2
 
 Musewing Fairie
 Cost: 1B
-Rarity: White
+Rarity: WHITE
 
 Creature (Fast) - Fairie
 
@@ -234,7 +234,7 @@ Vit: 2
 
 Manipulative Fairie
 Cost: 1B
-Rarity: White
+Rarity: WHITE
 
 Creature (Fast) - Fairie
 
@@ -249,7 +249,7 @@ Vit: 1
 
 Fairie Visionary
 Cost: 1B
-Rarity: White
+Rarity: WHITE
 
 Creature (Slow) - Fairie
 
@@ -298,7 +298,7 @@ Ritual (Fast)
 
 Draw 2 Cards.
 
-Rebuy - 1BB
+Rebuy - BB
 
 ------------------
 

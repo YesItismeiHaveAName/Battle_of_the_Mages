@@ -32,7 +32,7 @@ Rarity: GOLD
 
 Creature(Slow) - Elemental
 
-1G, OFFER a Creature: Put 1 Poison Counter on target Creature.
+G, OFFER a Creature: Put 1 Poison Counter on target Creature.
 
 2GG: Summon 2 Fungus.
 
@@ -86,7 +86,7 @@ Rarity: GOLD
 
 Creature(Slow) - Elemental
 
-G, EXHAUST: Summon 1 Fungus.
+EXHAUST: Summon 1 Fungus.
 
 Str: 7
 Vit: 7
@@ -135,7 +135,7 @@ Rarity: WHITE
 
 Creature(Slow) - Beast
 
-1G, vanish target Card from your Graveyard: Draw 1 Card.
+1G, vanish a Card from your Graveyard: Draw 1 Card.
 
 Str: 3
 Vit: 3
@@ -228,7 +228,7 @@ Vit: 2
 ------------------
 
 Ancient Golem
-Cost: 5GGG
+Cost: 3GGG
 Rarity: WHITE
 
 Creature(Slow) - Golem
@@ -318,7 +318,7 @@ Heal target Creature for 3.
 ------------------
 
 Collected Strength
-Cost: 2G
+Cost: 1G
 Rarity: GOLD
 
 Ritual (Slow)
@@ -360,7 +360,7 @@ You gain 4 Life.
 
 ------------------
 
-Natural Growth
+Natural Selection
 Cost: G
 Rarity: WHITE
 
@@ -371,7 +371,7 @@ them. Put that Card into your Hand and the Rest on the Bottom of your Spellbook 
 
 ------------------
 
-Natures Blessing
+Nature's Blessing
 Cost: 1G
 Rarity: WHITE
 

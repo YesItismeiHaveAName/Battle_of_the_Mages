@@ -61,7 +61,7 @@ Vit: 5
 
 Cleric
 Cost: 1W
-Rarity: WHITE
+Rarity: GOLD
 
 Creature (Slow) - Cleric
 
@@ -93,14 +93,14 @@ Vit: 2
 
 Saint of Last Breath
 Cost: 1W
-Rarity: WHITE
+Rarity: GOLD
 
 Creature (Slow) - Human
 
-EXHAUST: Another target Creature gains Armor 3 until the End of the Turn.
+EXHAUST: Target Creature gains Armor 3 until the End of the Turn.
 
 Str: 1
-Vit: 2
+Vit: 1
 
 
 
@@ -109,7 +109,7 @@ Vit: 2
 
 
 
-WHITE RARITY: (9 / 10)
+WHITE RARITY: (10 / 10)
 ------------------
 
 Companion Hawk
@@ -223,10 +223,9 @@ Vit: 3
 
 ------------------
 
-
 Light Dragon
 Cost: 2WWW
-Rarity: GOLD
+Rarity: WHITE
 
 Creature (Fast) - Dragon
 
@@ -238,6 +237,23 @@ When this Creature leaves, your Opponent draws 1 Card.
 
 Str: 3
 Vit: 3
+
+------------------
+
+Sanctum Reinforcer
+Cost: 2WW
+Rarity: WHITE
+
+Creature (Slow) - Human
+
+When this Creature enters, put 3 Shield and 3 Str Counter on it.
+
+1, remove 1 Shield Counter from this Creature(Slow): Put 1 Shield Counter on target Creature.
+1, remove 1 Str Counter from this Creature(Slow): Put 1 Str Counter on target Creature.
+
+Str: 0
+Vit: 2
+
 
 
 
@@ -298,8 +314,7 @@ Rarity: GOLD
 
 Ritual (Slow)
 
-Destroy all Creatures.
-
+Destroy all Creatures and Relics.
 ------------------
 
 Assembling Forces
@@ -321,6 +336,8 @@ Ritual (Slow)
 
 Prepare all Creatures target Mage controls.
 Heal each of these Creatures for 1.
+
+
 
 
 
