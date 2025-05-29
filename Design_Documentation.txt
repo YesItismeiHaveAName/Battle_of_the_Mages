@@ -1,0 +1,76 @@
+Battle of the Mages:
+
+Design Documentation and Philosophie:
+
+
+###########################################################
+Core Values of the Game:
+###########################################################
+
+The Core of this Game is Decision Making.
+Battle of the Mages is supposed to be a Card Game about Decisions,
+Risk Reward Evaluation and Resource and Tempo Management.
+
+Thus, all Cards should come with a Weakness or Restriction of some Sort.
+Abilities should Cost something, whether it'd be Magic Points, Cards on the Field / in the Graveyard or
+Something else.
+
+The Rarity System of the Cards in BotM is supposed to provide a new Balancing Axis:
+Each Card has one of three Rarities:
+
+White
+Gold
+Purple
+
+Each Card of the White Rarity can be played uop to 4 Times per Spellbook.
+Each Card of the Gold Rarity up to three Times and each Purple Rarity Card can be played up to once.
+
+This added Axis is supposed to provide Balance:
+Purple Rarity Cards are supposed to be stronger than White Rarity Cards, but they cannot provide the same Level
+of Consistency as White Rarity Cards can.
+
+So already, during Deck Building (Spellbook Building), Players need to make careful Decisions!
+
+Creatures aren't able to tank infinite Amounts of Damage, since Damage is permanent in this Game!
+
+
+###########################################################
+Colors, Magic Points and Crystals:
+###########################################################
+
+BotM is HEAVILY inspired by Magic The Gathering, no Doubt.
+And that's okay!
+MtG does many Things so right!
+From the gradually Build Up of the Game thanks to the Mana and Land System to the Color Pie, distributing many
+Interactions and Aspects of Card Games to 4 Colors, restricting "Value-Piles" containing just the best Cards!
+
+BotM borrows Lands, Mana and the Color Pie:
+
+Lands are Crystals and Produce Magic Points instead of Mana.
+The Color Pie has been rewritten (Black is not there anymore).
+
+Also: The Power Level of the Cards has been adjusted.
+Cards shouldn't be the Key to Victory, but rather a Piece of the Puzzle (aka the whole Game and your Way of winning it)!
+
+There are some other parallels between MtG and BotM:
+
+Artifacts - Relics
+Creature - Creature
+Instant and Sorcery - Ritual
+Basic Land - Small Crystal
+Land - Crystal
+cast - attempted
+sacrifice - offer
+tap - exhaust
+......
+
+-> The "Speed" of any Card is determined by an Attribute:
+Each Card (except for Crystals) has a Speed:
+It is either Slow or Fast.
+Cards with the Fast Speed can be attempted any Time its Mage has Priority.
+Cards with the Slow Speed can be attempted any Time its Mage has Priority, during its Mage's Mainsteps and only if the
+Stack is empty.
+
+
+The Same goes for Abilities.
+

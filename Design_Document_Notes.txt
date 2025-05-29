@@ -1,0 +1,185 @@
+Battle of the Mages Design Documentation
+
+-> overall ideas, general balancing ideas, dangers, cards that will eventually break the game or would break it if the card pool would be increased etc etc.
+-> deliberately designed-> Abilities should always
+involve a risk for a reward , building tension.
+-> resource management should be 1 pillar of the design philosophy.
+A second one would be “choices made intentionally” to portrait how players need to choose between their options rather than just getting everything.
+
+
+Incrementally building your advantage / incrementally getting out of disadvantage  might be number 3.
+
+After all, the game wants to be a magic clone and take a slower approach on everything.
+
+-> rarities determine the maximum amount of copies you can play any given card in a 50-card deck.
+-> balanced the stronger cards in regards to “weaker ones”.
+-> consistency vs explosiveness
+
+-> “each card is supposed to play a piece in the giant puzzle”
+
+-> Purple-Rarity-Cards are supposed to be strong, giving many resources / ways of value, but they should not INSTANTLY win the game.
+-> Yes, they will shift the game’s tempo, but not inherently always in their mages favor.
+
+-> “diversity instead of monotony”
+Promoting many different angles of gameplay (rush vs control, wide vs big, reactive vs proactive)
+Via differently working threats, answers and tools.
+
+
+
+-> no tempo swings, but rather “tempo stoppers”
+-> cards should mostly reset the state of the game or neutralize advantage / disadvantage.
+-> yes, some cards (like fiery entrance) DO neutralize and can put you in advantage, but that’s situational
+
+-> against many big threats, fiery entrance does not that much (well, 2 points of damage to each creature is BIG), but it will not outright win you the game.
+
+-> Carried away is a very weird spell.
+It can counter a spell or assemble you an army of fairies, but against board sweepers, the card will always lose when choosing fairies. Which is kinda weird, but okay. Fairies will just carry the “mass destruction” away!
+
+
+-> synergies should be allowed, the damage and combat system should balance combos like Frozen Demon > Charm of Fire and Assemble forces > Great Cinder worm out. Since damage is permanent, creatures will eventually die if they don’t get healed in time.
+
+Which also makes every single creature a more valuable resource.
+A 0/4 cannot block a 1/1 forever, just for 4 turns.
+
+Permanent damage should be a factor, but not an noting thing.
+
+I think permanent damage opens up a lot of new design space, and lets us use the “Damage Counters” for cool interaction. See: Suffering Through or Shifted Pain etc.
+
+
+
+Key idea:
+
+Pieces.
+Cards should be PIECES of the whole
+Puzzle, NOT a key to victory.
+
+This design Philosophie does no state that cards are supposed to be weak or useless on their own, but sharing / “outsourcing” abilities will lead to more interesting gameplay, since you cannot rely on one single card to do everything, while also making it so that your opponent needs to evaluate which cards they want to interact with.
+-> do they burn the token generator or the sacrifice outlet? Do the counter the giant body creature or the card draw?
+
+-> DECISIONS and mind games / sequencing decisions should be on the top of priorities
+
+
+
+-> Colors:
+
+To ensure diverse Deck archetypes instead of “good stuff”, we will split strengths and weaknesses into colors:
+
+Battle of the Mages will be about 5 colors:
+
+Grey (not a real color)
+
+Red (Aggression, Burn, Damage, Chaos and Passion)
+
+Blue (Tempo, Deckmanipulation, Interaction on the stack, Spelltrickery)
+
+Green(Big bodies, Poison, Ramp, Combat)
+
+White(Destruction, Judgement, Token Creatures, Pumpeffects, Punishing Opponents)
+
+
+
+-> Battle of the mages will not restrict any players ability to play as many colors as they want to, but the Crystal-System will on its own.
+-> Crystals produce Magic Points, which is how you pay for every card.
+
+There are no-color, one-color, and two-color Crystals. Two-Color-Crystals are supposed to be SLOWER than one color crystals, since your deck trades off speed for a greater card pool when deck building. This idea / concept / rule also “nerfs” 3-5 colored decks a lot, since the deck will need some sort of MP-fixing or suffer from incastable cards. So mono colored decks are supposed to be more consistent while having more punishable weaknesses than 2 colored decks.
+
+There will also be some utility-crystals, boosting the point of playing a single color.
+Also, some colorless crystals will be provided with some utility (creature-crystals, crystal destruction, etc ), since the crystal system shouldn’t be a holy part of the game, but another axis of interaction between both players.
+
+Crystal-Destruction is annoying, but it is a valid strategy. And as long as it won’t dominate the  meta, it should be fine.
+
+
+Emberyne:
+Big Dragon.
+Rush down,
+Pings creatures, eats Mages!:3
+
+
+Varnyx:
+Freezes everything on the field,
+Slows down the game, makes for a long term value engine, synergizes heavily with Frozen Demon!
+
+
+Aurelia:
+A value piece, offering a bit of everything!
+-> You get healing, Life and a great Creature in its own rights.
+
+-> Sporessa, Sporemother
+-> Value Engine.
+-> should allow to trade resources for other ones.
+-> not a best stick, but a value package.
+-> plays with poison and fungus-creatures.
+-> direct life drain as a Kill-Option?
+
+
+
+
+
+-> yes, purple rarity cards are doing way more / offer more bang for your buck. But the balancing factor is that each individual purple rarity card can only be played once in any 50 card deck.
+-> thus the value of the “queen” is traded off by it’s quantity. Also: these creatures are strong, but not immortal. They can be interacted with and that’s GREAT!
+
+
+—> quantities:
+
+Another big factor that wants to balance cards is the quantity-system. Each rarity has its own maximum quantity, meaning that the amount of copies you can play of any given card depends on the rarity of has.
+
+-> Black / White Rarity:
+Can be played up to 4 times in any 50 card deck.
+(The keys to consistency)
+
+-> Gold Rarity:
+Can be played up to 3 times in any 50 card deck.
+(The stronger, more threatening cards)
+
+-> Purple Rarity:
+Can be played up to once in any 50 card deck.
+(Flagships / very strong cards)
+
+
+-> permanent damage:
+We want creatures to be a resource.
+This, the will not be able to rank any number of damage, at least without reinvesting into healing abilities.
+
+-> thus, creatures will take permanent damage and die eventually, also by blocking smaller threats multiple times.
+
+This should give more choices in combat as well as choices to burn spells and spells that poison creatures.
+
+-> a neat side effect of this rule is that cards that cheat big threats into play are getting balanced by the creatures not being able to withstand infinite amounts of damage that wouldn’t kill them.
+
+-> dropping a Frozen demon on turn 2 and removing its ice counters from it on turn 3 is STRONG, but the frozen demon can still
+Be destroyed / vanished / blocked until it dies.
+
+This mechanic isn’t supposed to make combat a horrible math equation or destroy the flow of
+The game. It should be interesting since cleanly sequencing Burnspells, attacks and other abilities could give you a small edge over your opponent!
+
+
+
+-> Cycles:
+Battle
+Of the mages contains some Card-Cycles:
+
+The Summoners:
+Each color contains a Gold-Rarity Creature that can use Magic Points to summon an iconic creature of that color.
+-> Green: Leader of the Heard
+-> Red: Dragon Shamaness
+-> White: Priest..
+-> Blue: Fairie Warrior
+
+These creatures are just 1 cycle and have some mechanical differences.
+The tokens they summon also don’t have the same characteristics. Green gets 4/4 Beasts
+Blue gets 1/1 Flying Fairies
+Red gets 4/4 flying Dragons with Rush
+And white gets 4/5 flying Angels.
+
+
+Each color has their own Utility-Crystal, being able to provide one Magic point of said color or able to activate a unique effect.
+The effects are trimmed to fit the color’s identity.
+
+
+The game should evolve around playing cool cards, making them
+Work, seeing new interactions and having a great time.
+Nothing should change around the whole game, except the purple rarity cards, but that’s something else.
+Also: there should be fringe combo decks.
+These decks are cool, despite “cheating the system” in some way (which they don’t really do)
+And I just really like the premodern Phyraxian dread bought -> Counter its ability deck.
+Which is how Charm of Fire and Frozen demon got born.
