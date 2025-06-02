@@ -2,12 +2,12 @@ Blue Fairies
 
 Creatures: 25
 
-4 Fairie Visionary
-4 Manipulative Fairie
-3 Musewing Fairie
-4 Oppressive Fairie
-3 Frightening Fairie
-4 Fairie Trickster
+4 Fairy Visionary
+4 Manipulative Fairy
+3 Musewing Fairy
+4 Oppressive Fairy
+3 Frightening Fairy
+4 Fairy Trickster
 3 Warrior of the Fairies
 
 Rituals: 6

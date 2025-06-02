@@ -7,7 +7,7 @@ Design Documentation and Philosophie:
 Core Values of the Game:
 ###########################################################
 
-The Core of this Game is Decision Making.
+The Core of this Game is Decision-Making.
 Battle of the Mages is supposed to be a Card Game about Decisions,
 Risk Reward Evaluation and Resource and Tempo Management.
 
@@ -35,13 +35,23 @@ Creatures aren't able to tank infinite Amounts of Damage, since Damage is perman
 
 
 ###########################################################
+Winning Conditions:
+###########################################################
+
+Each Mage (Player) starts the Game with 20 Points of Life and a 50 Card Spellbook.
+When a Mage cannot draw from their Spellbook (since it has no Cards left in it) or has 0 or less
+Points of Life, the Game of over and that Mage has lost.
+
+
+
+###########################################################
 Colors, Magic Points and Crystals:
 ###########################################################
 
 BotM is HEAVILY inspired by Magic The Gathering, no Doubt.
 And that's okay!
 MtG does many Things so right!
-From the gradually Build Up of the Game thanks to the Mana and Land System to the Color Pie, distributing many
+From the gradual Build Up of the Game thanks to the Mana and Land System to the Color Pie, distributing many
 Interactions and Aspects of Card Games to 4 Colors, restricting "Value-Piles" containing just the best Cards!
 
 BotM borrows Lands, Mana and the Color Pie:
@@ -72,5 +82,30 @@ Cards with the Slow Speed can be attempted any Time its Mage has Priority, durin
 Stack is empty.
 
 
-The Same goes for Abilities.
+ALL activated Abilities, if not explicitly written behind the Costs of that Ability, have the Fast-Speed.
+
+
+
+###########################################################
+Core Mechanics / Ideas:
+###########################################################
+
+
+Battle of the Mages is supposed to be a Game that focuses on Resource Management, Counters,
+building an advantage slowly but surely and smart sequencing.
+
+Creatures can be affected by a multitude of mechanically different Counters.
+Other Cards might interact with these Counters in interesting Ways!
+
+
+Ice: Disables Combat and Tap-Abilities for a Creature.
+Damage: Explains itself, but makes the Creature one Step closer to Dying!
+Poison: Weakens the Creature from within, decreasing Strength AND Vitality!
+Str: Buffs your Creature, making it better in Combat!
+Shield: Reduces the Damage dealt to this Creature by 1 once!
+
+
+Despite that: Deck Building and Advantage oriented Gameplay will be the KEY to Victory in BotM!
+
+
 

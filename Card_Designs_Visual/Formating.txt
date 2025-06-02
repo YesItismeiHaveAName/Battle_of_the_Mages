@@ -1,0 +1,30 @@
+Effects:
+
+
+Activated Effects:
+
+COSTs (divided by ',') (Speed (only needed if the effect is supposed to be a slow effect)) : effect
+
+Precedence of Costs:
+
+1. Magic Point Costs
+2. OFFERing Creatures
+3. Vanishing Cards from your Graveyard or Hand or Deck
+4. Discarding Cards
+5. Exhausting Creatures.
+
+
+
+For Clarity:
+
+All cards can be divided into 2 Play-Types:
+
+Spells, and Crystals
+
+Spells are attempted
+Crystals are put on the Field.
+
+ALL Creatures, Rituals, Relics, are Spells.
+So whenever someone puts a Spell on the Stack, it can be denied.
+-> AKA put from the Stack into its Mage's Graveyard.
+Implying that Crystals cannot be denied whatsoever.

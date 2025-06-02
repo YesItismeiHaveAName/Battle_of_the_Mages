@@ -81,9 +81,9 @@ Warrior of the Fairies
 Cost: 2BB
 Rarity: GOLD
 
-Creature (Fast) - Fairie
+Creature (Fast) - Fairy
 
-1BB: Summon 1 Fairie.
+1BB: Summon 1 Fairy.
 
 1BBB: All Creatures you control gain +1 Str and Armor 1 until the End of the Turn.
 
@@ -129,11 +129,11 @@ Vit: 5
 
 ------------------
 
-Fairie Trickster
+Fairy Trickster
 Cost: 1B
 Rarity: WHITE
 
-Creature (Fast) - Fairie
+Creature (Fast) - Fairy
 
 Flying
 
@@ -144,11 +144,11 @@ Vit: 1
 
 ------------------
 
-Frightening Fairie
+Frightening Fairy
 Cost: 1BB
 Rarity: WHITE
 
-Creature (Fast) - Fairie
+Creature (Fast) - Fairy
 
 Flying
 
@@ -204,11 +204,11 @@ Vit: 3
 
 ------------------
 
-Oppressive Fairie
+Oppressive Fairy
 Cost: BB
 Rarity: WHITE
 
-Creature (Fast) - Fairie
+Creature (Fast) - Fairy
 
 Flying
 
@@ -217,11 +217,11 @@ Vit: 2
 
 ------------------
 
-Musewing Fairie
+Musewing Fairy
 Cost: 1B
 Rarity: WHITE
 
-Creature (Fast) - Fairie
+Creature (Fast) - Fairy
 
 Flying
 
@@ -232,11 +232,11 @@ Vit: 2
 
 ------------------
 
-Manipulative Fairie
+Manipulative Fairy
 Cost: 1B
 Rarity: WHITE
 
-Creature (Fast) - Fairie
+Creature (Fast) - Fairy
 
 Flying
 
@@ -247,11 +247,11 @@ Vit: 1
 
 ------------------
 
-Fairie Visionary
+Fairy Visionary
 Cost: 1B
 Rarity: WHITE
 
-Creature (Slow) - Fairie
+Creature (Slow) - Fairy
 
 Flying
 
@@ -334,18 +334,20 @@ Rarity: GOLD
 
 Ritual (Fast)
 
-Exhaust all Creatures target Mage controls.
+Put 1 Ice Counter on all Creatures target Mage controls.
+Exhaust each of these Creatures.
 
 ------------------
 
 Loose Focus
-Cost: 1B
+Cost: B
 Rarity: GOLD
 
 Ritual (Fast)
 
 Put target Spell on Top of its Mage's
 Spellbook.
+
 
 
 
@@ -439,7 +441,7 @@ Rarity: WHITE
 Ritual (Fast)
 
 Choose one:
-- Summon 1 Fairie.
+- Summon 1 Fairy.
 - Deny target Creature Spell unless its Mage pays 2.
 
 ------------------

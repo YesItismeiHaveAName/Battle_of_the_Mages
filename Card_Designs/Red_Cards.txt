@@ -388,7 +388,7 @@ Rarity: WHITE
 
 Ritual (Slow)
 
-This Card deals X Damage to target Creature.
+This Card deals X Damage any Target.
 
 Cycling - 1R
 
@@ -419,7 +419,7 @@ Fiery Entrance
 Cost: 3RRR
 Rarity: WHITE
 
-Ritual (Slow)
+Ritual (Fast)
 
 This Card deals 2 Damage to each Creature.
 Summon 1 Dragon.

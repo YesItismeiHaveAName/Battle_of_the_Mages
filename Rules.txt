@@ -154,3 +154,38 @@ Now, all Creatures deal Damage. All Blockers deal Damage to the Creature they ar
 to the Creatures they are blocked by or the defending Player. All Damage Counters are placed at the same time.
 So all Creatures that are going to die to Damage will die at the same Time.
 
+
+
+------------------------------------------------------------------------------------------
+Targets, up to, a vs target:
+------------------------------------------------------------------------------------------
+
+When a Spell / Ability targets a Creature / Relic / Crystal / Spell / Mage, the Controller of that Card HAS to determine
+a legal Target for it when attempting that Card / Ability.
+You cannot attempt a Spell when there is no legal Target for it.
+If a triggerd Ability finds NO legal Target, it gets put on the Stack and fizzles upon Resolution.
+(It just doesn't resolve, so the whole effect ceases to exist).
+If a Spell / Ability loses at least one of its Targets, it fizzles.
+
+If a Spell / Ability uses the wording 'up to ... target', the spell cannot fizzle.
+Even if EVERY single Target is invalid upon Resolution the Spell / Ability, the Rules Text gets applied.
+
+As an Example:
+If a Card reads: "Deny target Spell."
+It can only be played as long as at least 1 Spell is on the Stack.
+If a Card reads: "Deal 2 Damage up to 2 target Creatures."
+The Controller chooses up to 2 Creatures, and even if one or more of these Creatures where to not exist anymore
+/ be an illegal target upon Resolution, the Spell STILL gets resolved. There is no such thing as Half-Resolutions.
+Either a Spell / Ability resolves FULLY or it doesn't.
+
+
+
+------------------------------------------------------------------------------------------
+Spells / Abilities with "Modes":
+------------------------------------------------------------------------------------------
+
+If a Spell / Ability uses the wording 'Choose X:', then its Mage chooses an equal amount of Modes when attempting that
+Spell / putting the Ability on the Stack. After choosing all Modes, that Spell's / Ability's Mage chooses
+Targets, etc etc.
+Any Mage CANNOT rechoose Modes after having already chosen the Modes of that Spell / Ability.
+

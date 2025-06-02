@@ -1,13 +1,12 @@
 ------------------------------------------------------------------------------------------------------------
 Creatures:
 ------------------------------------------------------------------------------------------------------------
-PURPLE RARITY (0 / 1)
-------------------
 
 
 
 
-GOLD RARITY (3 / 5)
+
+GOLD RARITY (3 / 3)
 ------------------
 
 Silver Guardian
@@ -62,7 +61,7 @@ Vit: 7
 
 
 
-WHITE RARITY (2 / 10)
+WHITE RARITY (3 / 3)
 ------------------
 
 Adapting Construct
@@ -89,12 +88,28 @@ Creature(Slow) - Construct
 
 EXHAUST, vanish target Card from a Graveyard: Generate R or G or W or B.
 
-1, EXHAUST, vanish target Creature Card from a Graveyard: Gain 2 Life.
+1, EXHAUST, vanish target Creature Card from a Graveyard: Put 1 Str Counter on target Creature.
 
-2, EXHAUST, vanish target Ritual Card from a Graveyard: Put 1 Str Counter on target Creature.
+1, EXHAUST, vanish target Ritual Card from a Graveyard: Gain 2 Life.
 
 Str: 1
 Vit: 2
+
+
+------------------
+
+Stone Gargoyle
+Cost: 4
+Rarity: WHITE
+
+Creature(Slow) - Gargoyle
+
+Enters exhausted.
+Flying
+Armor 1
+
+Str: 4
+Vit: 3
 
 
 
@@ -107,11 +122,11 @@ Relics:
 ------------------------------------------------------------------------------------------------------------
 
 
-GOLD RARITY (3 / 5)
+GOLD RARITY (3 / 3)
 ------------------
 
 Enhanced Generator
-Cost: 5
+Cost: 4
 Rarity: GOLD
 
 Relic (Slow)
@@ -133,8 +148,8 @@ Enters exhausted.
 
 ------------------
 
-Amulett of Life
-Cost: 3
+Reviving Amulett
+Cost: 1
 Rarity: GOLD
 
 Relic (Slow)
@@ -148,7 +163,7 @@ Enters exhausted.
 
 
 
-WHITE RARITY (3 / 5)
+WHITE RARITY (3 / 3)
 ------------------
 
 Prismatic Crystal
