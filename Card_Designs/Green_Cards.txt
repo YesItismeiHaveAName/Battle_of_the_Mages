@@ -215,15 +215,15 @@ Vit: 2
 ------------------
 
 Chewing Beast
-Cost: 2G
+Cost: 1GG
 Rarity: WHITE
 
 Creature(Slow) - Beast
 
 1, OFFER this Creature: Destroy target Relic.
 
-Str: 2
-Vit: 2
+Str: 3
+Vit: 3
 
 ------------------
 
@@ -283,7 +283,7 @@ Choose one:
 ------------------
 
 Eternal Blossom
-Cost: 3GG
+Cost: 2GGG
 Rarity: GOLD
 
 Ritual (Slow)
@@ -291,7 +291,7 @@ Ritual (Slow)
 Search your Spellbook for up to 2 Crystal Cards,
 put them on the Field exhausted, then shuffle your Spellbook.
 
-Summon 1 Fungus.
+If you control 4 or more Crystals, summon 2 Fungus.
 
 ------------------
 
@@ -318,7 +318,7 @@ Heal target Creature for 3.
 ------------------
 
 Collected Strength
-Cost: 1G
+Cost: 2G
 Rarity: GOLD
 
 Ritual (Slow)
@@ -422,7 +422,7 @@ Gain 2 Life.
 ------------------
 
 Sprouting Season
-Cost: 1GGG
+Cost: 1GG
 Rarity: WHITE
 
 Ritual (Fast)

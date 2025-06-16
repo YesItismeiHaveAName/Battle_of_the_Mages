@@ -6,7 +6,7 @@ Creatures:
 
 
 
-GOLD RARITY (3 / 3)
+GOLD RARITY (4 / 4)
 ------------------
 
 Silver Guardian
@@ -55,6 +55,23 @@ Vit: 7
 
 ------------------
 
+Stone Guardian
+Cost: 3
+Rarity: GOLD
+
+Creature(Slow) - Golem
+
+Enters exhausted.
+This Creature does not prepare
+during your Prepare-Phase.
+
+
+7: Prepare this Creature.
+
+Str: 6
+Vit: 6
+
+------------------
 
 
 
@@ -122,7 +139,7 @@ Relics:
 ------------------------------------------------------------------------------------------------------------
 
 
-GOLD RARITY (3 / 3)
+GOLD RARITY (4 / 4)
 ------------------
 
 Enhanced Generator
@@ -157,13 +174,28 @@ Relic (Slow)
 Enters exhausted.
 2, EXHAUST, OFFER this Relic: Return target Creature Card from your Graveyard to your Hand.
 
+------------------
+
+Memorial of Aurelia
+Cost: 2
+Rarity: GOLD
+
+Relic (Slow)
+
+1: Choose one:
+- Target Creature gains Flying until the End of the Turn.
+- Target Creature gains Armor 1 until the End of the Turn.
+- Target Creature gains Attentiveness until the End of the Turn.
+
+
+
+------------------
 
 
 
 
 
-
-WHITE RARITY (3 / 3)
+WHITE RARITY (4 / 4)
 ------------------
 
 Prismatic Crystal
@@ -195,5 +227,15 @@ Rarity: WHITE
 Relic (Slow)
 
 1, EXHAUST: Prepare target Creature or Relic.
+
+------------------
+
+Altar
+Cost: 2
+Rarity: WHITE
+
+Relic (Slow)
+
+OFFER a Creature: Generate CC.
 
 ------------------

@@ -73,21 +73,21 @@ Vit: 3
 ------------------
 
 Master Tactician
-Cost: 2W
+Cost: 1WW
 Rarity: GOLD
 
 Creature (Fast) - Human
 
 Attentiveness, Armor 1
 
-1W, EXHAUST(Slow): Reveal Cards from the Top of you Spellbook until you reveal a Creature Card.
+1W, EXHAUST: Reveal Cards from the Top of you Spellbook until you reveal a Creature Card.
 Put that Card into your Hand and the Rest on the Bottom of your Spellbook in a random Order.
 
 W, EXHAUST: Put 1 Shield Counter on target Creature.
 W, EXHAUST: Put 1 Str Counter on target Creature.
 
-Str: 1
-Vit: 2
+Str: 2
+Vit: 3
 
 ------------------
 

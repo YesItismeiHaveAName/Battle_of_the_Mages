@@ -179,6 +179,26 @@ The Controller chooses up to 2 Creatures, and even if one or more of these Creat
 Either a Spell / Ability resolves FULLY or it doesn't.
 
 
+Whenever a Spell / Ability reads "target" / "Target", it becomes a targeting Ability.
+
+
+Whenever a Spell / Ability mentions 'a Creature' / 'a Mage', it does NOT target.
+Thus, its Mage does not select Targets when putting the Spell / Ability on the Stack.
+The Mage chooses Targets for the Card upon Resolution, so it does NOT Target.
+Thus, the Spell has an "upside" of being able to reveal the Targets later than targeting Abilities.
+(Since the Opponent can react to anything TARGETING something before it resolves, while untargeted leaves the choice
+open until it actually resolves.)
+Similarly to 'target', 'a' cannot resolve properly if there is NO valid target upon the
+Resolution of the Spell / Ability.
+
+The same applies to Cards mentioning "any number of", "each", "every" and "all".
+
+Ranking the Combination of selective Wordings:
+
+target
+up to target
+a
+up to a
 
 ------------------------------------------------------------------------------------------
 Spells / Abilities with "Modes":
@@ -186,6 +206,15 @@ Spells / Abilities with "Modes":
 
 If a Spell / Ability uses the wording 'Choose X:', then its Mage chooses an equal amount of Modes when attempting that
 Spell / putting the Ability on the Stack. After choosing all Modes, that Spell's / Ability's Mage chooses
-Targets, etc etc.
-Any Mage CANNOT rechoose Modes after having already chosen the Modes of that Spell / Ability.
+Targets, etc. etc.
+Any Mage CANNOT re-choose Modes after having already chosen the Modes of that Spell / Ability.
 
+
+
+
+------------------------------------------------------------------------------------------
+Direct and indirect Targeting:
+------------------------------------------------------------------------------------------
+
+In BotM, some Cards will read "Target" / "target", while others will read "a", "one", "each", "every" (one does also
+imply all other Numericals).
