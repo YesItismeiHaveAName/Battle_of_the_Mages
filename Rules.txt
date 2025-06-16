@@ -1,26 +1,28 @@
 Battle Mages:
 
 
-Deck Building:
-Each player has to build a Spellbook, consisting of exactly 40 White, Blue, Green or Red Cards.
-Each Player also has to build a 20 Card Crystal-Collection, consisting of Mana Crystals.
+Each Mage (Player) uses a Spellbook to defeat their opponent.
 
 
-A Crystal Collection can contain any amount of Small Mana Crystals, while any Crystal Collection can only contain a set
-amount of Big Mana Crystals. The maximum amount of copies eligible for each Collection is referenced by that
-Cards Rarity.
+A Spellbook consists of 50 Cards.
+The Distribution of Crystal, Creature, Ritual and Relic Cards is up to the Mage wielding their
+powerful Spellbook!
+
+Rarity:
+
+Cards have different Rarities. Each Card's Rarity defines how often you can play it in your Spellbook!
+
+White Rarity: Can be played up to 4 Times!
+Gold Rarity: Can be played up to 3 Times!
+Purple Rarity: Can be played up to once!
 
 
--> Rewrite:
-50 Card Deck, containing ALL Crystals, Creatures and Rituals.
--> Rarity still changes the maximum amount of copies able to be played in any given deck.
-
-
+The ONLY Exception to this are Small Crystal Cards. A Spellbook may contain any number of any Small Crystal Card.
 ------------------------------------------------------------------------------------------
-Cards, Cardtypes and Zones:
+Cards, Card Types and Zones:
 ------------------------------------------------------------------------------------------
 
-Battle of the Mages contains several Cardtypes:
+Battle of the Mages contains several Card Types:
 
 Mana Crystal (big or small)
 Creature
@@ -216,5 +218,26 @@ Any Mage CANNOT re-choose Modes after having already chosen the Modes of that Sp
 Direct and indirect Targeting:
 ------------------------------------------------------------------------------------------
 
-In BotM, some Cards will read "Target" / "target", while others will read "a", "one", "each", "every" (one does also
-imply all other Numericals).
+In BotM, there are 2 types of Targeting:
+Direct Targeting and indirect Targeting.
+The difference can be seen on each Card:
+Whenever a Card reads "target" or "Target", the Card targets DITRECTLY.
+Whenever a Card reads "a", "each", "any number", "that", the Card targets INDIRECTLY.
+
+The mechanical difference lies in time of choosing targets:
+When a Card targets directly, it can only be attempted if the Game State contains legal targets.
+As an example:
+A Card reads 'This Card deals 3 Damage to target Creature.', It can only be attempted AS long AS a Creature that can be targeted is
+on the Field. As long as no legal Target exists, this Card CANNOT be attempted.
+
+If a Card targets INDIRECTLY, you choose the Targets as the Spell gets resolved.
+Using the Example from beforehand:
+'This Card deals 3 Damage to a Creature.'
+This Card can be attempted at any point you can attempt it, whether there are legal Targets for it or not, since it
+doesn't care about whether they exist at the time of attempt or not.
+
+When this Card resolves, and there are no legal Targets for it, it just fizzles and goes to the Graveyard.
+
+The Same goes for Abilities, except that they don't put the Card they are on in the Graveyard on fizzle.
+
+
