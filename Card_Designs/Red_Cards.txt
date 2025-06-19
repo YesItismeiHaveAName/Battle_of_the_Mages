@@ -10,7 +10,7 @@ Rarity: PURPLE
 
 Creature (Slow) - Dragon
 
-Flying, Rush, Armor 2
+Flying, Rush
 
 R: This Creature deals 1 Damage to target Creature.
 1R: This Creature gains +1 Str until the End of the Turn.

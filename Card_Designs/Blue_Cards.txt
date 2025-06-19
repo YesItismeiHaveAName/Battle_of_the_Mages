@@ -15,7 +15,7 @@ Put 1 Ice Counter on each other Creature.
 
 2B: Exhaust target Creature. Put 1 Ice Counter on it.
 
-B, remove 2 Ice Counters from target Creature(Slow): Draw 1 Card.
+B, remove 2 Ice Counters from a Creature(Slow): Draw 1 Card.
 
 Str: 2
 Vit: 5
