@@ -17,6 +17,7 @@ Crystals:
 
 Constructed Crystal:
 Rarity: GOLD
+Crystal
 
 EXHAUST: Generate C.
 
@@ -28,16 +29,31 @@ It remains a Crystal.
 
 Collapsing Crystal:
 Rarity: GOLD
+Crystal
 
 EXHAUST: Generate C.
 
-1, EXHAUST: Destroy target Crystal. Offer this Crystal.
+1, EXHAUST, OFFER this Crystal: Destroy target Crystal.
+
+--------------------------
+
+Ever glowing Crystal:
+Rarity: GOLD
+Crystal
+
+Enters EXHAUSTED.
+
+1, EXHAUST: Put 1 Storage Counter on this Crystak
+
+EXHAUST, remove X Storage Counters from this Crystal:
+Repeat the following X Times:
+Generate R or W or B or G.
 
 --------------------------
 
 Energizing Crystal:
 Rarity: GOLD
-
+Crystal
 
 Enters exhausted.
 
@@ -49,15 +65,17 @@ EXHAUST: Generate C.
 
 Shifting Crystal:
 Rarity: GOLD
+Crystal
 
 Enters exhausted.
-EXHAUST: Search your Spellbook for a Small Crystal, put it onto the Field
+EXHAUST: Search your Spellbook for a Small Crystal Card, put it onto the Field
 exhausted, then shuffle your Spellbook.
 
 --------------------------
 
 Burning Crystal:
 Rarity: GOLD
+Crystal
 
 Enters exhausted.
 EXHAUST: Generate R.
@@ -67,6 +85,7 @@ RRR, EXHAUST(Slow): Deal 3 Damage to any Target.
 
 Enlightened Crystal:
 Rarity: GOLD
+Crystal
 
 Enters exhausted.
 EXHAUST: Generate B.
@@ -76,6 +95,7 @@ BBB, EXHAUST(Slow): Foresight 2.
 
 Restoring Crystal:
 Rarity: GOLD
+Crystal
 
 Enters exhausted.
 EXHAUST: Generate G.
@@ -85,6 +105,7 @@ GGG, EXHAUST(Slow): Put target Creature Card from your Graveyard on the Top of y
 
 Soothing Crystal:
 Rarity: GOLD
+Crystal
 
 Enters exhausted.
 EXHAUST: Generate W.
@@ -98,6 +119,7 @@ Choose one:
 
 Magenta Crystal:
 Rarity: WHITE
+Crystal
 
 Enters exhausted.
 EXHAUST: Generate B or R.
@@ -106,6 +128,7 @@ EXHAUST: Generate B or R.
 
 Turquoise Crystal:
 Rarity: WHITE
+Crystal
 
 Enters exhausted.
 EXHAUST: Generate B or G.
@@ -114,6 +137,7 @@ EXHAUST: Generate B or G.
 
 Yellow Crystal:
 Rarity: WHITE
+Crystal
 
 Enters exhausted.
 EXHAUST: Generate G or R.
@@ -122,6 +146,7 @@ EXHAUST: Generate G or R.
 
 Pink Crystal:
 Rarity: WHITE
+Crystal
 
 Enters exhausted.
 EXHAUST: Generate W or R.
@@ -130,6 +155,7 @@ EXHAUST: Generate W or R.
 
 Jade Crystal:
 Rarity: WHITE
+Crystal
 
 Enters exhausted.
 EXHAUST: Generate G or W.
@@ -138,6 +164,7 @@ EXHAUST: Generate G or W.
 
 Cyan Crystal:
 Rarity: WHITE
+Crystal
 
 Enters exhausted.
 EXHAUST: Generate B or W.
