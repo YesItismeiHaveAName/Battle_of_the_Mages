@@ -171,8 +171,7 @@ Rarity: GOLD
 
 Relic (Slow)
 
-Enters exhausted.
-2, EXHAUST, OFFER this Relic: Return target Creature Card from your Graveyard to your Hand.
+2, OFFER this Relic: Return target Creature Card from your Graveyard to your Hand.
 
 ------------------
 
