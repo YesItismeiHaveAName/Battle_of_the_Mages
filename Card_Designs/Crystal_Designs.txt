@@ -43,7 +43,7 @@ Crystal
 
 Enters EXHAUSTED.
 
-1, EXHAUST: Put 1 Storage Counter on this Crystak
+1, EXHAUST: Put 1 Storage Counter on this Crystal.
 
 EXHAUST, remove X Storage Counters from this Crystal:
 Repeat the following X Times:
