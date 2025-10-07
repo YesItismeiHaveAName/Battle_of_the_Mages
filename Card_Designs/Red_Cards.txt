@@ -35,7 +35,7 @@ Flying
 
 R: This Creature gains +1 Str until the End of Turn.
 
-Str: 2
+Str: 3
 Vit: 3
 
 ------------------
@@ -97,7 +97,7 @@ Vit: 2
 
 
 
-WHITE RARITY (9 / 10)
+WHITE RARITY (10 / 10)
 ------------------
 
 Boasting Minotaur
