@@ -38,11 +38,11 @@ Rarity: GOLD
 Creature (Slow) - Demon
 
 Enters exhausted.
-When this Creature enters, put 10 Ice Counters on it.
+When this Creature enters, put 6 Ice Counters on it.
 
 Flying, Armor 1
 
-1B: Remove 1 Ice Counter from this Creature.
+B: Remove 1 Ice Counter from this Creature.
 
 Str: 8
 Vit: 8
@@ -99,9 +99,9 @@ Rarity: GOLD
 
 Creature (Slow) - Human
 
-1B, EXHAUST (Slow): Foresight 2.
-BB, EXHAUST (Slow): Draw 1 Card.
-2BB, EXHAUST, OFFER this Creature: Deny target Spell.
+1B, EXHAUST: Foresight 2.
+B, EXHAUST (Slow): Draw 1 Card.
+BB, EXHAUST, OFFER this Creature: Deny target Spell.
 
 Str: 1
 Vit: 3
@@ -195,8 +195,8 @@ Rarity: WHITE
 Creature (Slow) - Elemental
 
 1: This Creature gains +1 Str until the End of the Turn.
-2: This Creature gains Flying until the End of the Turn.
-2: This Creature gains Attentiveness until the End of the Turn.
+1: This Creature gains Flying until the End of the Turn.
+1: This Creature gains Attentiveness until the End of the Turn.
 B: Bounce this Creature.
 
 Str: 3
