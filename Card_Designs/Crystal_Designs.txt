@@ -27,7 +27,7 @@ It remains a Crystal.
 
 --------------------------
 
-Collapsing Crystal:
+Contageous Crystal:
 Rarity: GOLD
 Crystal
 
@@ -69,7 +69,7 @@ Rarity: GOLD
 Crystal
 
 Enters exhausted.
-EXHAUST: Search your Spellbook for a Small Crystal Card, put it onto the Field
+EXHAUST, OFFER this Crystal: Search your Spellbook for a Small Crystal Card, put it onto the Field
 exhausted, then shuffle your Spellbook.
 
 --------------------------
@@ -100,7 +100,7 @@ Crystal
 
 Enters exhausted.
 EXHAUST: Generate G.
-GGG, EXHAUST(Slow): Put target Creature Card from your Graveyard on the Top of your Spellbook.
+GGG, EXHAUST(Slow): Return target Creature Card from your Graveyard to your Hand.
 
 --------------------------
 
