@@ -224,7 +224,7 @@ Vit: 3
 ------------------
 
 Light Dragon
-Cost: 2WWW
+Cost: 3WWW
 Rarity: WHITE
 
 Creature (Fast) - Dragon
@@ -265,13 +265,13 @@ PURPLE RARITY (1 / 1)
 ------------------
 
 Calling the Angels
-Cost: 5WWW
+Cost: 4WWW
 Rarity: PURPLE
 
 Ritual (Slow)
 
 Summon 3 Angels.
-Gain 8 Life.
+Gain 10 Life.
 
 "Despite the Sounds of Wedding Bells, I felt more anxious than ever."
 
