@@ -25,18 +25,19 @@ Vit: 7
 GOLD Rarity (5 / 5)
 ------------------
 
-Dragon Brute
-Cost: 2RR
+Kindled Phoenix
+Cost: 1RRR
 Rarity: GOLD
 
-Creature (Fast) - Dragon
+Creature (Slow) - Phoenix
 
 Flying
+Rush
 
-R: This Creature gains +1 Str until the End of Turn.
+Rebuy - RR
 
-Str: 3
-Vit: 3
+Str: 4
+Vit: 2
 
 ------------------
 
@@ -216,17 +217,18 @@ Vit: 2
 
 ------------------
 
-Goblin Priest
-Cost: 1R
+Dragon Brute
+Cost: 2RR
 Rarity: WHITE
 
-Creature (Slow) - Goblin
+Creature (Fast) - Dragon
 
-1, EXHAUST: Heal target Creature for 2. This Creature deals 1 Damage to itself.
-1R, EXHAUST: Heal target Creature for 1.
+Flying
 
-Str: 0
-Vit: 3
+R: This Creature gains +1 Str until the End of Turn.
+
+Str: 2
+Vit: 2
 
 
 
@@ -240,7 +242,7 @@ PURPLE Rarity (1 / 1)
 
 Distorted Punishment
 Cost: 1RR
-Rarity: Purple
+Rarity: PURPLE
 
 Ritual (Slow)
 
