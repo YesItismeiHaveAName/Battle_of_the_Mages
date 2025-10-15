@@ -38,7 +38,7 @@ Rarity: GOLD
 Creature (Slow) - Demon
 
 Enters exhausted.
-When this Creature enters, put 6 Ice Counters on it.
+When this Creature enters, put 8 Ice Counters on it.
 
 Flying, Armor 1
 
@@ -119,7 +119,7 @@ Frost Mammoth
 Cost: 2B
 Rarity: WHITE
 
-Creature (SLow) - Mammoth
+Creature (Slow) - Mammoth
 
 1BB: Exhaust target Creature. Put 1 Ice Counter on it.
 
