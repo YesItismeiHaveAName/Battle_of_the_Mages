@@ -13,7 +13,7 @@ Creature (Slow) - Fungus
 1G: Put 1 Poison Counter on target Creature.
 1G, vanish 3 Cards from a Graveyard: Draw 1 Card.
 1, remove 1 Poison Counter from a Creature: Summon 1 Fungus.
-G, OFFER X Creatures, EXHAUST(Slow): This Creature deals X Damage to target Creature or Mage.
+G, OFFER X Creatures, EXHAUST(Slow): This Creature deals X Damage to any Target.
 
 
 "Despite their poisonous Gas, they embody pure Happiness."

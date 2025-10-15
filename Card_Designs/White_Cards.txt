@@ -120,7 +120,7 @@ Creature (Slow) - Bird
 
 Flying
 
-When this Creature dies, you can search your Spellbook for a Card with the same Name,
+When this Creature dies, you may search your Spellbook for a Card with the same Name,
 reveal it and put it into your Hand.
 
 Str: 1

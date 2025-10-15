@@ -169,7 +169,6 @@ When this Creature enters, return target Ritual Card from your Graveyard to your
 Str: 2
 Vit: 2
 
-
 ------------------
 
 Wind Dragon

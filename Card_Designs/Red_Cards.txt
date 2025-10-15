@@ -107,7 +107,7 @@ Rarity: WHITE
 
 Creature (Slow) - Minotaur
 
-1R, discard 1 Card: Your Opponent discards a Card.
+1R, discard 1 Card: Your Opponent discards 1 Card.
 
 Str: 2
 Vit: 3
@@ -248,7 +248,7 @@ Ritual (Slow)
 
 Remove all Damage Counters from all Creatures.
 Repeat the Following for each Counter removed this way:
-This Card deals 1 Damage to a Creature or Mage.
+This Card deals 1 Damage to any Target.
 
 "By some Miracle, they carried our pain."
 
@@ -350,7 +350,7 @@ Rarity: WHITE
 Ritual (Slow)
 
 Destroy target Mana Crystal or Relic.
-This Card deals 1 Damage to its Owner.
+This Card deals 1 Damage to its Mage.
 
 ------------------
 
