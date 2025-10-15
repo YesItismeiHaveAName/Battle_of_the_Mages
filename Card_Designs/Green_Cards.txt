@@ -357,7 +357,7 @@ Rarity: WHITE
 
 Ritual (Slow)
 
-Return a Creature Card or Mana Crystal Card from your Graveyard to your Hand.
+Return target Creature Card or Crystal Card from your Graveyard to your Hand.
 You gain 4 Life.
 
 ------------------
