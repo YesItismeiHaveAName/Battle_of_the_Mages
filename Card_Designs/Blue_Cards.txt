@@ -87,7 +87,6 @@ Creature (Fast) - Fairy
 
 1BBB: All Creatures you control gain +1 Str and Armor 1 until the End of the Turn.
 
-
 Str: 2
 Vit: 2
 
@@ -103,7 +102,7 @@ Creature (Slow) - Human
 B, EXHAUST (Slow): Draw 1 Card.
 BB, EXHAUST, OFFER this Creature: Deny target Spell.
 
-Str: 1
+Str: 2
 Vit: 3
 
 
