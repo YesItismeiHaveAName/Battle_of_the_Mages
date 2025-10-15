@@ -277,9 +277,9 @@ Rarity: PURPLE
 
 Ritual (Fast)
 
-Choose one:
-- Deny target Spell.
-- Summon X Fairies, where X is target Spell's Costs.
+Deny target Spell.
+Summon X Fairies,
+where X is that Spell's Costs.
 
 "They left as fast as they came."
 
@@ -316,7 +316,7 @@ Choose one:
 ------------------
 
 Charged with Ideas
-Cost: 5BB
+Cost: 2BBB
 Rarity: GOLD
 
 Ritual (Slow)
