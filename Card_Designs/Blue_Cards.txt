@@ -98,12 +98,12 @@ Rarity: GOLD
 
 Creature (Slow) - Human
 
-1B, EXHAUST: Foresight 2.
+1B: Foresight 2.
 B, EXHAUST (Slow): Draw 1 Card.
 BB, EXHAUST, OFFER this Creature: Deny target Spell.
 
-Str: 2
-Vit: 3
+Str: 1
+Vit: 4
 
 
 
