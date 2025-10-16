@@ -223,7 +223,7 @@ Creature (Fast) - Fairy
 
 Flying
 
-EXHAUST 4 Creatures you control: Draw 1 Card.
+EXHAUST 3 Creatures you control: Draw 1 Card.
 
 Str: 1
 Vit: 2

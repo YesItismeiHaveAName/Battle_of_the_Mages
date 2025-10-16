@@ -209,7 +209,7 @@ Rarity: WHITE
 
 Creature (Slow) - Human
 
-R, Exile a Ritual Card from your Graveyard, EXHAUST:
+R, vanish a Ritual Card from your Graveyard, EXHAUST:
 This Creature deals 2 Damage to any Target.
 
 Str: 1
@@ -268,7 +268,7 @@ Ritual (Slow)
 
 Choose one:
 - Remove all Ice Counters from target Creature. Prepare it.
-- Discard one card. Draw 2 Cards.
+- Discard 1 Card. Draw 2 Cards.
 - This Card deals 1 Damage to all Creatures target Mage controls.
 
 ------------------
