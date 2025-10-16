@@ -291,7 +291,7 @@ Ritual (Fast)
 
 Choose one:
 - Summon 1 Knight.
-- Destroy target exhausted Creature.
+- Vanish target exhausted Creature.
 - Put 2 Shield Counters on target Creature.
 
 ------------------
