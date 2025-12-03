@@ -22,7 +22,7 @@ Crystal
 EXHAUST: Generate C.
 
 1: Until the End of the Turn, this Crystal becomes
-a Construct Creature (Str: 2, Vit: 1) with Rush.
+a Crystal Creature (Str: 2, Vit: 1) with Rush.
 It remains a Crystal.
 
 --------------------------

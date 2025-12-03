@@ -40,12 +40,12 @@ Creature (Slow) - Demon
 Enters exhausted.
 When this Creature enters, put 8 Ice Counters on it.
 
-Flying, Armor 1
+Flying
 
 B: Remove 1 Ice Counter from this Creature.
 
-Str: 8
-Vit: 8
+Str: 11
+Vit: 11
 
 ------------------
 
